@@ -21,11 +21,11 @@ repository               : "TakuyaKoriyama/takuyakoriyama.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_takuya.jpeg"
+  avatar           : "bio-photo.jpg"
   name             : "Takuya Koriyama"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at ???"
-  location         : "Earth"
+  location         : # "Earth"
   employer         : "???"
   uri              : # URL
   email            : "takuya.koriyama@rutgers.edu" 
