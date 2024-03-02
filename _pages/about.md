@@ -17,6 +17,7 @@ I am a prospective PhD student at ???. I am broadly interested in probability.
 
 
 ### Research ( \* = **non**-alphabetical order)
+* [Asymptotics of resampling without replacement in robust and logistic regression](), Pierre C. Bellec and Takuya Koriyama.
 * [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254), Pierre C. Bellec and Takuya Koriyama. *arXiv:2312.13254*, 2023.
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257), Pierre C. Bellec and Takuya Koriyama.
 *arXiv:2312.13257*, 2023. 
