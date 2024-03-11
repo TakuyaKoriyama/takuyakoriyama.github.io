@@ -12,8 +12,8 @@ I am a prospective PhD student at ???. I am broadly interested in probability.
 ### Education 
 * 2024-present. 
 * 2022-2024. PhD student in the department of statistics at Rutgers University, advised by [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). I transferred to ??? after passing the qualifying exam. 
-* 2021-2022. Part-time researcher at RIKEN CBS, advised by [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/)
-* 2018-2022. B.E. in Applied Mathematics, the University of Tokyo, advised by [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html).
+<!-- * 2021-2022. Part-time researcher at RIKEN CBS, advised by [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) -->
+* 2018-2022. B.E. in Applied Mathematics, the University of Tokyo, advised by [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html). During 2021-2022, I was a part-time researcher at RIKEN CBS, advised by [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/).
 
 
 ### Research ( \* = **non**-alphabetical order)
