@@ -17,6 +17,7 @@ I am a prospective PhD student at ???. I am currently interested in statistical 
 
 
 ### Research (\* = **non**-alphabetical order)
+* [Asymptotics of resampling without replacement in robust and logistic regression](), Pierre C. Bellec and Takuya Koriyama, 2024.
 * [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254), Pierre C. Bellec and Takuya Koriyama. *arXiv:2312.13254*, 2023.
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257), Pierre C. Bellec and Takuya Koriyama.
 *arXiv:2312.13257*, 2023. 
@@ -24,8 +25,7 @@ I am a prospective PhD student at ???. I am currently interested in statistical 
 * [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://arxiv.org/abs/2212.00984) Shunsuke Imai\* , Takuya Koriyama, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama. *JBES*. Accepted, to appear.
 * [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949), Takuya Koriyama\* , Takeru Matsuda and Fumiyasu Komaki. *arXiv:2207.01949*, 2022.
 
-### Working papers
-* Bagging of regularized M-estimators in proportional asymptotics, with Pierre C. Bellec.
+
 
 ### Award
 * Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023
