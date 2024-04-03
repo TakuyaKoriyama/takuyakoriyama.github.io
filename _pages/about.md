@@ -19,7 +19,7 @@ I am a prospective PhD student at ---. I'm currently interested in the following
 
 
 ### Papers (alphabetical order except for \*)
-1. [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070), Pierre C. Bellec and Takuya Koriyama, 2024.
+1. [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070), Pierre C. Bellec and Takuya Koriyama, *arXiv:2404.02070*, 2024.
 1. [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254), Pierre C. Bellec and Takuya Koriyama. *arXiv:2312.13254*, 2023.
 1. [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257), Pierre C. Bellec and Takuya Koriyama.
 *arXiv:2312.13257*, 2023. 
