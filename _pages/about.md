@@ -9,7 +9,7 @@ redirect_from:
 
 I am a prospective PhD student at ---. I'm currently interested in the following topics:
 * Statistical and computational learning theory
-* High-dimensional statistics in proportional regime p/n -> constant
+* High-dimensional statistics in the proportional regime p/n -> constant
 * Intersection of convex geometry and high-dimensional probability
 
 ### Education
