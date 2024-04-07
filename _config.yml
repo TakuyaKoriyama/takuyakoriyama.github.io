@@ -24,9 +24,9 @@ author:
   avatar           : "profile_2.png"
   name             : "Takuya Koriyama"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student"
+  # bio              : "PhD student at UChicago"
   location         : # "Earth"
-  employer         : "---"
+  employer         : "UChicago"
   uri              : # URL
   email            : "takuya.koriyama@rutgers.edu" 
 
