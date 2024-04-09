@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 ### About me
-I am a prospective PhD student at The University of Chicago, Booth School of Business.
+<!-- I am a prospective PhD student at The University of Chicago, Booth School of Business. -->
+I am a prospective PhD student at --.
 I'm broadly interested in learning theory, statistics, probability, and optimization.
 
 ### Education 
-* 2024-present. PhD student at Chicago Booth.
+* 2024-present. PhD student at --.
 * 2022-2024. PhD student in statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
 <!-- * 2021-2022. Part-time researcher at RIKEN. Mentor: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) -->
 * 2018-2022. BE in Mathematical Engineering, The University of Tokyo. Advisors: [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html) and [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/). 
