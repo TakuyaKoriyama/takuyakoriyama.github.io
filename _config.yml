@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   # bio              : "PhD student at UChicago"
   location         : # "Earth"
-  # employer         : "UChicago"
-  uri              : "https://www.uchicago.edu/en"
+  employer         : "UChicago"
+  # uri              : "https://www.uchicago.edu/en"
   email            : "takuya.koriyama@rutgers.edu" 
 
   # Academic websites
