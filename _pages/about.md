@@ -9,14 +9,18 @@ redirect_from:
 
 ### About me
 I am a prospective PhD student at The University of Chicago, Booth School of Business.
-I'm broadly interested in learning theory, statistics, probability, and optimization. 
+I'm broadly interested in statistics, probability, and optimization. My recent research interests include:
+* High dimensional statistics in the proportional asymptotic regime p/n -> constant
+* High dimensional probability and convex geometry
+* Infinite-dimensional optimization problem
+
 
 ### Education 
-* 2024-present. PhD student at Chicago Booth. Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
+* 2024-present. PhD student at The University of Chicago, Booth School of Business. Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
 * 2022-2024. PhD student in statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
-* 2018-2022. BE in Mathematical Engineering, The University of Tokyo. Advisors: [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html) and [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/). 
+* 2018-2022. BE in Mathematical Engineering, The University of Tokyo. Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html). 
 
-### Publication (alphabetical order except for \*)
+### Research (alphabetical order except for \*)
 1. [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070), Pierre C. Bellec and Takuya Koriyama, *arXiv:2404.02070*, 2024.
 1. [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254), Pierre C. Bellec and Takuya Koriyama. *arXiv:2312.13254*, 2023.
 1. [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257), Pierre C. Bellec and Takuya Koriyama.
