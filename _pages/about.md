@@ -14,9 +14,8 @@ I'm broadly interested in statistics, probability, and optimization. My recent r
 * High dimensional probability and convex geometry
 * Infinite-dimensional optimization problem
 
-
 ### Education 
-* 2024-present. PhD student at The University of Chicago, Booth School of Business. Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
+* 2024-present. PhD student at The University of Chicago, Booth School of Business.
 * 2022-2024. PhD student in statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
 * 2018-2022. BE in Mathematical Engineering, The University of Tokyo. Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html). 
 
@@ -28,8 +27,6 @@ I'm broadly interested in statistics, probability, and optimization. My recent r
 1. [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374), Pierre Bellec, Jin-Hong Du, Takuya Koriyama, Pratik Patil and Kai Tan. *arXiv:2310.01374*, 2023
 1. [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo), Shunsuke Imai\*, Takuya Koriyama, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama. *Journal of Business & Economic Statistics*, 2024. 
 1. [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949), Takuya Koriyama\*, Takeru Matsuda and Fumiyasu Komaki. *arXiv:2207.01949*, 2022.
-
-
 
 ### Award
 * Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023
