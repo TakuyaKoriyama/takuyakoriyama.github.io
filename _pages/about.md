@@ -8,15 +8,14 @@ redirect_from:
 ---
 
 ### About me
-I am a prospective PhD student at The University of Chicago, Booth School of Business.
-I'm broadly interested in statistics, probability, and optimization. My recent research interests include:
-* High dimensional statistics in the proportional regime p/n -> constant
+I am a prospective PhD student in Statistics at The University of Chicago, Booth School of Business.
+I'm broadly interested in machine learning, statistics, and probability. My recent research interests include:
+* High dimensional statistics in the proportional regime p/n -> constant 
 * High dimensional probability and Convex geometry
 * Computational and Statistical Optimal transport
 
-
 ### Education 
-* 2024-present. PhD student at The University of Chicago, Booth School of Business. Advisor: [Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/). 
+* 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business. Advisor: [Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/). 
 * 2022-2024. PhD student in Statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
 * 2018-2022. Bachelor degree in Applied Mathematics, The University of Tokyo. Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html). [Thesis](https://arxiv.org/abs/2207.01949). 
 
