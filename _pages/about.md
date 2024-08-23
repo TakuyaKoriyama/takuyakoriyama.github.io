@@ -20,7 +20,7 @@ I'm broadly interested in machine learning, statistics, and probability. My rece
 * 2018-2022. Bachelor degree in Applied Mathematics, The University of Tokyo. Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html). [Thesis](https://arxiv.org/abs/2207.01949). 
 
 ### Research
-1. [Precise asymptotics of subgging of regularized M-estimators](), __Takuya Koriyama__\*, Pratik Patil, Jin-Hong Du, Kai Tan, Pierre C. Bellec. *arXiv*, 2024.
+1. [Precise asymptotics of subgging of regularized M-estimators](), __Takuya Koriyama__\*, Pratik Patil, Jin-Hong Du, Kai Tan, Pierre C. Bellec, 2024.
 1. [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070), Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order). *arXiv:2404.02070*, 2024.
 1. [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254), Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order).  *arXiv:2312.13254*, 2023.
 1. [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257), Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order).
