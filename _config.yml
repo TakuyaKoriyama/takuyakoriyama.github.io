@@ -24,11 +24,11 @@ author:
   avatar           : "profile_2.png"
   name             : "Takuya Koriyama"
   pronouns         : # example: "she/her"  
-  bio              : # "PhD student at UChicago"
+  bio              : "PhD student at UChicago"
   location         : # "Earth"
-  employer         : "UChicago"
+  employer         : # "UChicago"
   # uri              : "https://www.uchicago.edu/en"
-  email            : "tkoriyam@chicagobooth.edu" 
+  email            : "tkoriyam@uchicago.edu" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/?query=Takuya+Koriyama&searchtype=all&source=header"
