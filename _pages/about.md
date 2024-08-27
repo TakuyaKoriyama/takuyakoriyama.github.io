@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ### About me
-I am a prospective PhD student in Statistics at The University of Chicago, Booth School of Business.
-I'm broadly interested in machine learning, statistics, and probability. My recent research interests include:
+I am a 1st-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in machine learning, statistics, and probability. 
+<!-- My recent research interests include:
 * High dimensional statistics in the proportional regime: p/n -> constant 
 * High dimensional probability and Convex geometry
-* Computational and Statistical Optimal transport
+* Computational and Statistical Optimal transport -->
 
 ### Education 
 * 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business. Advisor: [Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/). 
@@ -20,12 +20,12 @@ I'm broadly interested in machine learning, statistics, and probability. My rece
 * 2018-2022. Bachelor degree in Applied Mathematics, The University of Tokyo. Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html). [Thesis](https://arxiv.org/abs/2207.01949). 
 
 ### Research
-1. [Precise asymptotics of subgging of regularized M-estimators](), __Takuya Koriyama__\*, Pratik Patil, Jin-Hong Du, Kai Tan, Pierre C. Bellec, 2024.
-1. [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070), Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order). *arXiv:2404.02070*, 2024.
-1. [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254), Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order).  *arXiv:2312.13254*, 2023.
-1. [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257), Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order).
+1. [Precise asymptotics of subgging of regularized M-estimators](), __Takuya Koriyama__\*, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec, 2024.
+1. [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070), Pierre C. Bellec\* and __Takuya Koriyama__\*. *arXiv:2404.02070*, 2024.
+1. [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254), Pierre C. Bellec\* and __Takuya Koriyama__\*.  *arXiv:2312.13254*, 2023.
+1. [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257), Pierre C. Bellec\* and __Takuya Koriyama__\*.
 *arXiv:2312.13257*, 2023. 
-1. [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374), Pierre C. Bellec, Jin-Hong Du, __Takuya Koriyama__, Pratik Patil and Kai Tan (alphabetical order). __*Journal of the Royal Statistical Society: Series B (accepted)*__, 2024.
+1. [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374), Pierre C. Bellec\*, Jin-Hong Du\*, __Takuya Koriyama__\*, Pratik Patil\* and Kai Tan\*. __*Journal of the Royal Statistical Society: Series B (accepted)*__, 2024.
 1. [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo), Shunsuke Imai\*, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama. __*Journal of Business & Economic Statistics*__, 2024. 
 1. [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949), __Takuya Koriyama\*__, Takeru Matsuda and Fumiyasu Komaki. *arXiv:2207.01949*, 2022.
 
