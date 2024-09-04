@@ -32,6 +32,7 @@ My recent research interests include:
 1. [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254)
 - Pierre C. Bellec\* and __Takuya Koriyama__\*
 - *arXiv:2312.13254*, 2023
+- [slide](../files/nonlinear_system_slide.pdf)
 1. [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257)
 - Pierre C. Bellec\* and __Takuya Koriyama__\*
 - *arXiv:2312.13257*, 2023
