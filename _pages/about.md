@@ -48,11 +48,6 @@ My recent research interests include:
    - *arXiv:2207.01949*, 2022. 
    - [slide](../files/slide_ep.pdf)
 
-### Award
-* Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
-* [Student Travel Award](https://imstat.org/2022/12/06/2022-icsds-travel-award-recipients/), IMS International Conference on Statistics and Data Science (IMS-ICSDS), 2022.
-* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022. 
-
 ### Talk
 * Poster session, [Workshop Honoring Andrew Barron: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning](https://yalefds.swoogo.com/infotheory/4823894), Yale University, April 2024.
 * Contributed session and invited session, [IMS Asia Pacific Rim Meeting](https://ims-aprm2024.com/), Melbourne, January 2024. 
@@ -61,3 +56,17 @@ My recent research interests include:
 * Seminar talk, Workshop on random partition of integers, the University of Tokyo, June 2022.
 * Poster session, Japan Statistical Society Meeting, Keio University, March 2022.
 
+### Award
+* Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
+* [Student Travel Award](https://imstat.org/2022/12/06/2022-icsds-travel-award-recipients/), IMS International Conference on Statistics and Data Science (IMS-ICSDS), 2022.
+* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022. 
+
+
+### Teaching (PhD level)
+* TA: Theory of Probability, fall 2023. 
+* TA: Stochastic process, spring 2024.
+* Instructor: Probability and Stochastic Processes, summer 2024. 
+
+### Misc 
+<!-- ### Misc
+I received my bachelor's degree in applied mathematics from UTokyo. During the undergraduate study I was also working at RIKEN CBS as a student reseacher where I was working on combinatorial stochastic processes. After that, I moved to Rutgers Stat as a PhD student and spend two years. At Rutgers I was working on high dim stat with professor Pierre C Bellec.  -->

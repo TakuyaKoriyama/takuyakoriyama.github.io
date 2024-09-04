@@ -21,7 +21,7 @@ repository               : "TakuyaKoriyama/takuyakoriyama.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_2.png"
+  avatar           : "profile_dog.jpg"
   name             : "Takuya Koriyama"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at UChicago"
