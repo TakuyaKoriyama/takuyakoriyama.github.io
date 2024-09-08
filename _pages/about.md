@@ -20,10 +20,9 @@ My recent research interests include:
 * 2018-2022. Bachelor degree in Applied Mathematics, The University of Tokyo. Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html). 
 
 
-
-### Publication
+### Publication (multiple \* means alphabetical order)
 1. Precise asymptotics of subgging of regularized M-estimators 
-- __Takuya Koriyama__\*, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec
+- __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec
 - *preprint*, 2024
 
 1. [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)
@@ -41,10 +40,10 @@ My recent research interests include:
 - __*Journal of the Royal Statistical Society: Series B (accepted)*__, 2024. 
 - [short slide](../files/slide_cgcv.pdf), [Github](https://github.com/kaitan365/CorrectedGCV).
 1. [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)
-- Shunsuke Imai\*, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama
+- Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama
 - __*Journal of Business & Economic Statistics*__, 2024
 1. [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)
-   - __Takuya Koriyama\*__, Takeru Matsuda and Fumiyasu Komaki
+   - __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki
    - *arXiv:2207.01949*, 2022. 
    - [slide](../files/slide_ep.pdf)
 
@@ -56,16 +55,16 @@ My recent research interests include:
 * Seminar talk, Workshop on random partition of integers, the University of Tokyo, June 2022.
 * Poster session, Japan Statistical Society Meeting, Keio University, March 2022.
 
-### Award
-* Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
-* [Student Travel Award](https://imstat.org/2022/12/06/2022-icsds-travel-award-recipients/), IMS International Conference on Statistics and Data Science (IMS-ICSDS), 2022.
-* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022. 
-
 
 ### Teaching (PhD level)
 * TA: Theory of Probability, fall 2023. 
 * TA: Stochastic process, spring 2024.
 * Instructor: Probability and Stochastic Processes, summer 2024. 
+
+### Award
+* Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
+* [Student Travel Award](https://imstat.org/2022/12/06/2022-icsds-travel-award-recipients/), IMS International Conference on Statistics and Data Science (IMS-ICSDS), 2022.
+* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022. 
 
 ### Misc 
 <!-- ### Misc
