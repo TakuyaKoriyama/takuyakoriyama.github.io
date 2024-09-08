@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### About me
-I am a 1st-year Ph.D. student in Statistics at The University of Chicago. I'm broadly interested in learning theory, statistics, and probability. 
+I am a 1st-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in learning theory, statistics, and probability. 
 My recent research interests include:
 * High dimensional statistics in the proportional regime (p/n -> constant)
 * High dimensional probability and Convex geometry
