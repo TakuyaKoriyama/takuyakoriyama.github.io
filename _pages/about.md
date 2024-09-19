@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### About me
-I am a 1st-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in learning theory, statistics, and probability. 
+I am a 1st-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in statistics, optimization, and probability. 
 My recent research interests include:
 * High dimensional statistics in the proportional regime (p/n -> constant)
 * High dimensional probability and Convex geometry
@@ -38,7 +38,7 @@ My recent research interests include:
 1. [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374)
 - Pierre C. Bellec\*, Jin-Hong Du\*, __Takuya Koriyama__\*, Pratik Patil\* and Kai Tan\* 
 - __*Journal of the Royal Statistical Society: Series B (accepted)*__, 2024. 
-- [short slide](../files/slide_cgcv.pdf), [Github](https://github.com/kaitan365/CorrectedGCV).
+- [journal](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkae092/7760017?redirectedFrom=fulltext), [short slide](../files/slide_cgcv.pdf), [Github](https://github.com/kaitan365/CorrectedGCV).
 1. [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)
 - Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama
 - __*Journal of Business & Economic Statistics*__, 2024
