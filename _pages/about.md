@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### About me
-I am a 1st-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in statistics, optimization, and probability. 
+I am a first-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in statistics, optimization, and probability. 
 My recent research interests include:
 * High dimensional statistics in the proportional regime (p/n -> constant)
 * High dimensional probability and Convex geometry
@@ -49,10 +49,11 @@ My recent research interests include:
    - [slide](../files/slide_ep.pdf)
 
 ### Talk
-* Poster session, [Workshop Honoring Andrew Barron: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning](https://yalefds.swoogo.com/infotheory/4823894), Yale University, April 2024.
-* Contributed session and invited session, [IMS Asia Pacific Rim Meeting](https://ims-aprm2024.com/), Melbourne, January 2024. 
+* Poster session, IMS International Conference on Statistics and Data Science, Nice, December 2024. [link](https://sites.google.com/view/ims-icsds2024/).
+* Poster session, Workshop Honoring Andrew Barron: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning, Yale University, April 2024. [link](https://yalefds.swoogo.com/infotheory/4823894).
+* Contributed session and invited session, IMS Asia Pacific Rim Meeting, Melbourne, January 2024. [link](https://imstat.org/meetings-calendar/ims-asia-pacific-rim-meeting/).
 * Seminar talk, Graduate school of Economics, the University of Tokyo, February 2023. 
-* Student travel award session, [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022), Florence, December 2022.
+* Student travel award session, IMS International Conference on Statistics and Data Science, Florence, December 2022. [link](https://sites.google.com/view/icsds2022).
 * Seminar talk, Workshop on random partition of integers, the University of Tokyo, June 2022.
 * Poster session, Japan Statistical Society Meeting, Keio University, March 2022.
 
