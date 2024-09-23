@@ -21,9 +21,10 @@ My recent research interests include:
 
 
 ### Publication (multiple \* means alphabetical order)
-1. Precise asymptotics of subgging of regularized M-estimators 
+1. Precise Asymptotics of Bagging Regularized M-estimators 
 - __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec
-- *preprint*, 2024
+- *arXiv areprint*, 2024
+- [Github](https://github.com/jaydu1/subagging-asymptotics)
 
 1. [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)
 - Pierre C. Bellec\* and __Takuya Koriyama__\* 
