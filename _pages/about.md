@@ -38,8 +38,8 @@ My recent research interests include:
 - *arXiv:2312.13257*, 2023
 1. [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374)
 - Pierre C. Bellec\*, Jin-Hong Du\*, __Takuya Koriyama__\*, Pratik Patil\* and Kai Tan\* 
-- __*Journal of the Royal Statistical Society: Series B (accepted)*__, 2024. 
-- [journal](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkae092/7760017?redirectedFrom=fulltext), [short slide](../files/slide_cgcv.pdf), [Github](https://github.com/kaitan365/CorrectedGCV).
+- __*Journal of the Royal Statistical Society: Series B*__, 2024. 
+- [Journal](https://doi.org/10.1093/jrsssb/qkae092), [Short slide](../files/slide_cgcv.pdf), [Github](https://github.com/kaitan365/CorrectedGCV).
 1. [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)
 - Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama
 - __*Journal of Business & Economic Statistics*__, 2024
