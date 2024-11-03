@@ -8,17 +8,22 @@ redirect_from:
 ---
 
 ### About me
-I am a first-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in statistics, optimization, and probability. My recent research interests include high dimensional statistics in the proportional regime (p/n -> constant), high dimensional probability, and optimal transport. 
+I am a first-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in statistics, optimization, and probability. 
+My recent research interests include high dimensional statistics in the proportional regime (p/n -> constant), high dimensional probability, and diffusion model. 
 
 ### Education 
-* 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business. Advisor: [Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/). 
+* 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business. Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
 * 2022-2024. PhD student in Statistics at Rutgers University. 
 Advisors: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/) and [Qiyang Han](https://statweb.rutgers.edu/qh85/).
 * 2018-2022. Bachelor degree in Applied Mathematics, The University of Tokyo. 
 Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html). 
 
 
-### Publication (multiple \* means alphabetical order)
+### Publication (\* means alphabetical order)
+1. [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity]()\\
+Tengyuan Liang, Kulunu Dharmakeerthi, Takuya Koriyama\\
+*arXiv preprint*, 2024.
+
 1. [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
 __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
 *arXiv:2409.15252*, 2024. [[github](https://github.com/jaydu1/subagging-asymptotics)]
