@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me
 I am a first-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in statistics, optimization, and probability. 
-My recent research interests include high dimensional statistics in the proportional regime (p/n -> constant), high dimensional probability, and diffusion model. 
+My recent research interests include high dimensional statistics in the proportional regime (p/n -> constant) and generative model.  
 
 ### Education 
 * 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business. Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
@@ -20,8 +20,8 @@ Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fum
 
 
 ### Publication (\* means alphabetical order)
-1. [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity]()\\
-Tengyuan Liang, Kulunu Dharmakeerthi, Takuya Koriyama\\
+1. [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
+Tengyuan Liang, Kulunu Dharmakeerthi, __Takuya Koriyama__\\
 *arXiv preprint*, 2024.
 
 1. [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
