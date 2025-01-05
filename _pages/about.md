@@ -51,7 +51,7 @@ __*Journal of Business & Economic Statistics*__, 2024. [[journal](https://www.ta
 
 1. [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-Minor revision at __*Journals of Applied probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)]
+Minor revision at __*Journal of Applied probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)]
 
 
 
