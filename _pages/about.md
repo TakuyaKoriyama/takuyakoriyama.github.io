@@ -8,18 +8,16 @@ redirect_from:
 ---
 
 ### About me
-I am a first-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business, where I am fortunate to be advised by Professor [Tengyuan Liang](https://tyliang.github.io/). Prior to joining UChicago, I spent two years as a Ph.D. student in Statistics at Rutgers University, working with Professor [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
+I am a first-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business, where I am fortunate to be advised by Professor [Tengyuan Liang](https://tyliang.github.io/). Before joining UChicago, I spent two years as a Ph.D. student in Statistics at Rutgers University, working with Professor [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
 
-I earned a Bachelor’s degree in 2022 from [the Department of Mathematical Engineering and Information Physics, the University of Tokyo](https://www.keisu.t.u-tokyo.ac.jp/en/).  During my undergraduate studies, I was also working as a part-time student researcher at [RIKEN Center for Brain Science](https://cbs.riken.jp/en/). 
-<!-- CBS, focusing on the asymptotic theory of combinatorial stochastic processes. -->
+I earned my Bachelor’s degree in 2022 from [the Department of Mathematical Engineering and Information Physics, the University of Tokyo](https://www.keisu.t.u-tokyo.ac.jp/en/). During my undergraduate studies, I also worked as a student researcher at [RIKEN Center for Brain Science](https://cbs.riken.jp/en/).  
 
-I'm broadly interested in statistics, optimization, and probability. My recent research interest includes (1) statistical and computational learning theory for generative models, (2) high-dimensional statistics in the mean-field regime, (3) interface of high-dimensional probability and convex geometry. 
-
+My research interests span probability, optimization, and statistics, with a focus on (1) statistical and computational learning theory for generative models, (2) high-dimensional statistics in the mean-field regime, (3) the interplay between high-dimensional probability and convex geometry.
 
 ### Research (\* = alphabetical order)
-9. Phase transition for unregularized M-estimation in single index model\\
+9. [Phase transition for unregularized M-estimation in single index model](https://arxiv.org/abs/2501.03163)\\
 Pierre C Bellec\* and __Takuya Koriyama__\*\\
-Preprint
+*arXiv:2501.03163*, 2025.
 
 8. [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, __Takuya Koriyama__\\
@@ -70,11 +68,11 @@ Minor revision at __*Journal of Applied probability*__. *arXiv:2207.01949*, 2022
 * TA: Stochastic process, spring 2024.
 * Instructor: Probability and Stochastic Processes, summer 2024. 
 
-<!-- ### Award
-<!-- * Travel award for Yale FDS workshop, 2024.  -->
-<!-- * Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023. -->
-<!-- * Student Travel Award, IMS International Conference on Statistics and Data Science, 2022.
-* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022.   -->
+### Award
+* Travel award for Yale FDS workshop, 2024. 
+* Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
+* Student Travel Award, IMS International Conference on Statistics and Data Science, 2022.
+* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022.  
 
 
 <!-- ### Education 
