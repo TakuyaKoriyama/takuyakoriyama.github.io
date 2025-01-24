@@ -10,9 +10,14 @@ redirect_from:
 ### About me
 I am a first-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business, where I am fortunate to be advised by Professor [Tengyuan Liang](https://tyliang.github.io/). Before joining UChicago, I spent two years as a Ph.D. student in Statistics at Rutgers University, working with Professor [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
 
-I earned my Bachelor’s degree in 2022 from [the Department of Mathematical Engineering and Information Physics, the University of Tokyo](https://www.keisu.t.u-tokyo.ac.jp/en/). During my undergraduate studies, I also worked as a student researcher at [RIKEN Center for Brain Science](https://cbs.riken.jp/en/).  
+I received my Bachelor’s degree in 2022 from [the University of Tokyo](https://www.keisu.t.u-tokyo.ac.jp/en/), majoring in Mathematics and Computer Science. During my undergraduate studies, I also worked as a student researcher at [RIKEN Center for Brain Science](https://cbs.riken.jp/en/).  
 
-My research interests span probability, optimization, and statistics, with a focus on (1) statistical and computational learning theory for generative models, (2) high-dimensional statistics in the mean-field regime, (3) the interplay between high-dimensional probability and convex geometry.
+My research interests lie at the intersection of probability, optimization, and statistics, with a focus on:
+*	Statistical and computational learning theory
+*	High-dimensional statistics in the proportional asymptotic regime
+*	Interplay between high-dimensional probability and convex geometry
+*	Combinatorial stochastic processes
+
 
 ### Research (\* = alphabetical order)
 9. [Phase transition for unregularized M-estimation in single index model](https://arxiv.org/abs/2501.03163)\\
@@ -29,7 +34,7 @@ __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
 
 6. [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)\\
 Pierre C. Bellec\* and __Takuya Koriyama__\* \\
-*arXiv:2404.02070*, 2024
+*arXiv:2404.02070*, 2024.
 
 5. [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254)\\
 Pierre C. Bellec\* and __Takuya Koriyama__\*\\
@@ -37,7 +42,7 @@ Pierre C. Bellec\* and __Takuya Koriyama__\*\\
 
 4. [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257)\\
 Pierre C. Bellec\* and __Takuya Koriyama__\*\\
-*arXiv:2312.13257*, 2023
+*arXiv:2312.13257*, 2023.
 
 3. [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374)\\
 Pierre C. Bellec\*, Jin-Hong Du\*, __Takuya Koriyama__\*, Pratik Patil\* and Kai Tan\* \\
@@ -49,9 +54,7 @@ __*Journal of Business & Economic Statistics*__, 2024. [[journal](https://www.ta
 
 1. [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-Minor revision at __*Journal of Applied probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)]
-
-
+Minor revision at __*Journal of Applied Probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)]
 
 ### Talk
 * IMS International Conference on Statistics and Data Science, Nice, December 2024. 
@@ -61,7 +64,6 @@ Minor revision at __*Journal of Applied probability*__. *arXiv:2207.01949*, 2022
 * IMS International Conference on Statistics and Data Science, Florence, December 2022.
 * Workshop on random partition of integers, the University of Tokyo, June 2022.
 * Japan Statistical Society Meeting, Keio University, March 2022.
-
 
 ### Teaching (PhD level)
 * TA: Theory of Probability, fall 2023. 
