@@ -42,7 +42,7 @@ Pierre C. Bellec\* and __Takuya Koriyama__\*\\
 
 4. [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257)\\
 Pierre C. Bellec\* and __Takuya Koriyama__\*\\
-*arXiv:2312.13257*, 2023.
+To appear at __*Journal of Machine Learning Research*__, 2025.
 
 3. [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374)\\
 Pierre C. Bellec\*, Jin-Hong Du\*, __Takuya Koriyama__\*, Pratik Patil\* and Kai Tan\* \\
