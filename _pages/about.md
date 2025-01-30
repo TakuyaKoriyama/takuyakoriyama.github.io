@@ -15,28 +15,25 @@ I am a first-year Ph.D. student in Statistics at The University of Chicago, Boot
 I received my Bachelor’s degree in 2022 from [the University of Tokyo](https://www.keisu.t.u-tokyo.ac.jp/en/), majoring in Math & CS.  -->
 <!-- During my undergraduate studies, I also worked as a student researcher at [RIKEN Center for Brain Science](https://cbs.riken.jp/en/).   -->
 
-### Education 
+### Bio 
 * 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business.
  Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
-* 2022-2024. PhD student in Statistics at Rutgers University.\\
-Advisors: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/) and [Qiyang Han](https://statweb.rutgers.edu/qh85/).
+* 2022-2024. PhD student in Statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
 * 2018-2022. B.E. in Mathematical Engineering (=Math & CS), The University of Tokyo. 
-Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html).
+* 2021-2022. Student researcher at RIKEN Center for Brain Science. 
+
 
 ### Research
 I'm broadly interested in mathematical theory and algorithm. Recently I'm working on the following topics:
-*	Statistical and computational Learning theory
+*	Statistical and computational learning theory
 *	High-dimensional statistics in the proportional asymptotic regime
 *	Interplay between high-dimensional probability and convex geometry
-*	Combinatorial stochastic processes 
+*	Combinatorial stochastic processes
 
 ### Preprints 
-* Asymptotic mixed normality of the quasi maximum likelihood estimator for Gibbs-partitions \\
-__Takuya Koriyama__
-
-* [Phase transition for unregularized M-estimation in single index model](https://arxiv.org/abs/2501.03163)\\
+* [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
 Pierre C Bellec and __Takuya Koriyama__ (alphabetical order)\\
-*arXiv:2501.03163*, 2025. 
+*arXiv:2501.03163*, 2025, submitted. 
 
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, __Takuya Koriyama__\\
@@ -56,7 +53,8 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 
 * [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-Minor revision at __*Journal of Applied Probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)]
+Minor revision at __*Journal of Applied Probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)].\\
+(This paper is based on my bachelor's thesis at UTokyo) 
 
 ### Publications
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257)\\
@@ -70,6 +68,10 @@ __*Journal of the Royal Statistical Society: Series B*__, 2024. [[journal](https
 * [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://arxiv.org/abs/2212.00984)\\
 Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
 __*Journal of Business & Economic Statistics*__, 2024. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]
+
+### Working paper
+* Parameter estimation of Gibbs-partitions with quasi-likelihood: stable martingale CLT and alpha-diversity\\
+__Takuya Koriyama__
 
 
 
