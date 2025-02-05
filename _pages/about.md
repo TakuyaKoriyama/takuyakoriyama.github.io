@@ -15,20 +15,19 @@ I am a first-year Ph.D. student in Statistics at The University of Chicago, Boot
 I received my Bachelor’s degree in 2022 from [the University of Tokyo](https://www.keisu.t.u-tokyo.ac.jp/en/), majoring in Math & CS.  -->
 <!-- During my undergraduate studies, I also worked as a student researcher at [RIKEN Center for Brain Science](https://cbs.riken.jp/en/).   -->
 
-### Bio 
+### Bio
 * 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business.
  Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
 * 2022-2024. PhD student in Statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
-* 2018-2022. B.E. in Mathematical Engineering (=Math & CS), The University of Tokyo. 
+* 2018-2022. BE in Mathematical Engineering (=Math & CS), The University of Tokyo. 
 * 2021-2022. Student researcher at RIKEN Center for Brain Science. 
 
 
 ### Research
-I'm broadly interested in mathematical theory and algorithm. Recently I'm working on the following topics:
-*	Statistical and computational learning theory
-*	High-dimensional statistics in the proportional asymptotic regime
-*	Interplay between high-dimensional probability and convex geometry
-*	Combinatorial stochastic processes
+I have broad interests in mathematical theory and algorithms. In recent years, my research has focused on:
+(1) High-dimensional statistics in the proportional asymptotic regime, (2) High-dimensional probability, and 
+(3) Combinatorial stochastic processes.
+More recently, I have been studying learning theory, with a particular emphasis on generative model and reinforcement learning. 
 
 ### Preprints 
 * [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
@@ -53,8 +52,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 
 * [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-Minor revision at __*Journal of Applied Probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)].\\
-(This paper is based on my bachelor's thesis at UTokyo) 
+Minor revision at __*Journal of Applied Probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)]. 
 
 ### Publications
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257)\\
@@ -69,10 +67,10 @@ __*Journal of the Royal Statistical Society: Series B*__, 2024. [[journal](https
 Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
 __*Journal of Business & Economic Statistics*__, 2024. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]
 
-### Working paper
+<!-- ### Working paper
 * Parameter estimation of Gibbs-partitions with quasi-likelihood: stable martingale CLT and alpha-diversity\\
 __Takuya Koriyama__
-
+ -->
 
 
 ### Talk
