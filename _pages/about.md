@@ -30,6 +30,9 @@ I have broad interests in mathematical theory and algorithms. In recent years, m
 More recently, I have been studying learning theory, with a particular emphasis on generative model and reinforcement learning. 
 
 ### Preprints 
+* Parameter estimation of Gibbs-partitions with quasi-likelihood: stable martingale CLT and α-diversity\\
+__Takuya Koriyama__, in preparation. 
+
 * [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
 Pierre C Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2501.03163*, 2025, submitted. 
