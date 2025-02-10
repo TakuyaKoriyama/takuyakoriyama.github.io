@@ -58,9 +58,9 @@ __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
 Minor revision at __*Journal of Applied Probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)]. 
 
 ### Publications
-* [Error estimation and adaptive tuning for unregularized robust M-estimator](https://arxiv.org/abs/2312.13257)\\
+* [Error estimation and adaptive tuning for unregularized robust M-estimator](https://jmlr.org/papers/v26/24-0060.html)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
-To appear at __*Journal of Machine Learning Research*__, 2025.
+__*Journal of Machine Learning Research*__, 2025.
 
 * [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374)\\
 Pierre C. Bellec, Jin-Hong Du, __Takuya Koriyama__, Pratik Patil and Kai Tan (alphabetical order) \\
