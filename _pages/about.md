@@ -38,7 +38,7 @@ Pierre C Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2501.03163*, 2025, submitted. 
 
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
-Tengyuan Liang, Kulunu Dharmakeerthi, __Takuya Koriyama__\\
+Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
 *arXiv:2411.01629*, 2024, submitted.
 
 * [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
@@ -60,20 +60,15 @@ Minor revision at __*Journal of Applied Probability*__. *arXiv:2207.01949*, 2022
 ### Publications
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://jmlr.org/papers/v26/24-0060.html)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
-__*Journal of Machine Learning Research*__, 2025.
+__*Journal of Machine Learning Research*__ 26 (16), 1-40, 2025.
 
 * [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374)\\
 Pierre C. Bellec, Jin-Hong Du, __Takuya Koriyama__, Pratik Patil and Kai Tan (alphabetical order) \\
-__*Journal of the Royal Statistical Society: Series B*__, 2024. [[journal](https://doi.org/10.1093/jrsssb/qkae092)], [[slide](../files/slide_cgcv.pdf)], [[github](https://github.com/kaitan365/CorrectedGCV)].
+__*Journal of the Royal Statistical Society Series B: Statistical Methodology*__, qkae092, 2024. [[journal](https://doi.org/10.1093/jrsssb/qkae092)], [[slide](../files/slide_cgcv.pdf)], [[github](https://github.com/kaitan365/CorrectedGCV)].
 
 * [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://arxiv.org/abs/2212.00984)\\
 Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
-__*Journal of Business & Economic Statistics*__, 2024. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]
-
-<!-- ### Working paper
-* Parameter estimation of Gibbs-partitions with quasi-likelihood: stable martingale CLT and alpha-diversity\\
-__Takuya Koriyama__
- -->
+__*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]
 
 
 ### Talk
