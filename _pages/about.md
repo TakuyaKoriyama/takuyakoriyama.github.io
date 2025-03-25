@@ -25,9 +25,10 @@ I received my Bachelor’s degree in 2022 from [the University of Tokyo](https:/
 
 ### Research
 I have broad interests in mathematical theory and algorithms. In recent years, my research has focused on:
-(1) High-dimensional statistics in the proportional asymptotic regime, (2) High-dimensional probability, and 
+(1) Mean-field high dimensional statistics
+(2) High-dimensional probability, and 
 (3) Combinatorial stochastic processes.
-More recently, I have been studying learning theory, with a particular emphasis on generative model and reinforcement learning. 
+More recently, I have been studying optimal transport and learning theory, with a particular emphasis on generative model and reinforcement learning. 
 
 ### Preprints 
 * Parameter estimation of Gibbs-partitions with quasi-likelihood: stable martingale CLT and α-diversity\\
