@@ -87,6 +87,7 @@ __*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal
 * Instructor: Probability and Stochastic Processes, summer 2024. 
 
 ### Award
+* IMS Hannan Graduate Student Travel Award, 2025.
 * Travel award for Yale FDS workshop, 2024. 
 * Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
 * Student Travel Award, IMS International Conference on Statistics and Data Science, 2022.
