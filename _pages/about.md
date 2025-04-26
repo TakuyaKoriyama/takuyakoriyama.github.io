@@ -23,12 +23,11 @@ I received my Bachelor’s degree in 2022 from [the University of Tokyo](https:/
 * 2021-2022. Student researcher at RIKEN Center for Brain Science. 
 
 
-### Research
 I have broad interests in mathematical theory and algorithms. In recent years, my research has focused on:
 (1) Mean-field high dimensional statistics
 (2) High-dimensional probability, and 
 (3) Combinatorial stochastic processes.
-More recently, I have been studying optimal transport and learning theory, with a particular emphasis on generative model and reinforcement learning. 
+More recently, I have been studying optimal transport and learning theory. 
 
 ### Preprints 
 * Parameter estimation of Gibbs-partitions with quasi-likelihood: stable martingale CLT and α-diversity\\
@@ -48,7 +47,7 @@ __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
 
 * [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
-*arXiv:2404.02070*, 2024, submitted.
+*arXiv:2404.02070*, 2024, major revision at *Bernoulli*.
 
 * [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
@@ -56,7 +55,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 
 * [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-Minor revision at __*Journal of Applied Probability*__. *arXiv:2207.01949*, 2022. [[slide](../files/slide_ep.pdf)]. 
+*arXiv:2207.01949*, 2022, minor revision at *Journal of Applied Probability*.  [[slide](../files/slide_ep.pdf)]. 
 
 ### Publications
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://jmlr.org/papers/v26/24-0060.html)\\
@@ -65,12 +64,18 @@ __*Journal of Machine Learning Research*__ 26 (16), 1-40, 2025.
 
 * [Corrected generalized cross-validation for finite ensembles of penalized estimators](https://arxiv.org/abs/2310.01374)\\
 Pierre C. Bellec, Jin-Hong Du, __Takuya Koriyama__, Pratik Patil and Kai Tan (alphabetical order) \\
-__*Journal of the Royal Statistical Society Series B: Statistical Methodology*__, qkae092, 2024. [[journal](https://doi.org/10.1093/jrsssb/qkae092)], [[slide](../files/slide_cgcv.pdf)], [[github](https://github.com/kaitan365/CorrectedGCV)].
+__*Journal of the Royal Statistical Society Series B: Statistical Methodology*__, 87(2), 289-318, 2025. [[journal](https://doi.org/10.1093/jrsssb/qkae092)], [[slide](../files/slide_cgcv.pdf)], [[github](https://github.com/kaitan365/CorrectedGCV)].
 
 * [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://arxiv.org/abs/2212.00984)\\
 Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
 __*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]
 
+### Award
+* IMS Hannan Graduate Student Travel Award, 2025.
+* Travel award at Yale FDS workshop, 2024. 
+* Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
+* Student Travel Award, IMS International Conference on Statistics and Data Science, 2022.
+* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022.  
 
 ### Talk
 * IMS International Conference on Statistics and Data Science, Nice, December 2024. 
@@ -85,13 +90,6 @@ __*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal
 * TA: Theory of Probability, fall 2023. 
 * TA: Stochastic process, spring 2024.
 * Instructor: Probability and Stochastic Processes, summer 2024. 
-
-### Award
-* IMS Hannan Graduate Student Travel Award, 2025.
-* Travel award for Yale FDS workshop, 2024. 
-* Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
-* Student Travel Award, IMS International Conference on Statistics and Data Science, 2022.
-* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022.  
 
 
 <!-- ### Education 
