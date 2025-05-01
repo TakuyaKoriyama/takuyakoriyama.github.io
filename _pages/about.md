@@ -33,10 +33,6 @@ More recently, I have been studying optimal transport and learning theory.
 * Parameter estimation of Gibbs-partitions with quasi-likelihood: stable martingale CLT and α-diversity\\
 __Takuya Koriyama__, in preparation. 
 
-* [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
-Pierre C Bellec and __Takuya Koriyama__ (alphabetical order)\\
-*arXiv:2501.03163*, 2025, submitted. 
-
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
 *arXiv:2411.01629*, 2024, submitted.
@@ -53,11 +49,18 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2312.13254*, 2023, submitted. [[slide](../files/nonlinear_system_slide.pdf)]
 
-* [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
-__Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-*arXiv:2207.01949*, 2022, minor revision at *Journal of Applied Probability*.  [[slide](../files/slide_ep.pdf)]. 
 
 ### Publications
+* [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
+Pierre C Bellec and __Takuya Koriyama__ (alphabetical order)\\
+*arXiv:2501.03163*, 2025, accepted to __*ICML 2025*__. 
+
+
+* [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
+__Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
+*arXiv:2207.01949*, 2022, accepted to __*Journal of Applied Probability*__.  [[slide](../files/slide_ep.pdf)]. 
+
+
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://jmlr.org/papers/v26/24-0060.html)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
 __*Journal of Machine Learning Research*__ 26 (16), 1-40, 2025.
