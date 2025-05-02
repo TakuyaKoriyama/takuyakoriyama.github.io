@@ -55,11 +55,9 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 Pierre C Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2501.03163*, 2025, accepted to __*ICML 2025*__. 
 
-
 * [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-*arXiv:2207.01949*, 2022, accepted to __*Journal of Applied Probability*__.  [[slide](../files/slide_ep.pdf)]. 
-
+*arXiv:2207.01949*, 2022, to appear in __*Advances in Applied Probability 58.1 (March 2026)*__.  [[slide](../files/slide_ep.pdf)]. 
 
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://jmlr.org/papers/v26/24-0060.html)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
