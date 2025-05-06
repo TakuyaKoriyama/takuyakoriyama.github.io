@@ -49,13 +49,12 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2312.13254*, 2023, submitted. [[slide](../files/nonlinear_system_slide.pdf)]
 
-
 ### Publications
 * [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
 Pierre C Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2501.03163*, 2025, accepted to __*ICML 2025*__. 
 
-* [Asymptotic analysis of parameter estimation for the Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
+* [Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
 *arXiv:2207.01949*, 2022, to appear in __*Advances in Applied Probability 58.1 (March 2026)*__.  [[slide](../files/slide_ep.pdf)]. 
 

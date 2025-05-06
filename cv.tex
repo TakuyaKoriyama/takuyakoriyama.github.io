@@ -2,9 +2,12 @@
 \usepackage[foot]{amsaddr}
 \usepackage[numbers]{natbib}
 \usepackage{listings}
-\usepackage[left=0.5in]{geometry}
+
+% \usepackage[left=0.5in]{geometry}
+\usepackage[left=1in,top=1in,right=1in,bottom=1in,head=.1in]{geometry}
 \usepackage{graphicx}
-\usepackage{xcolor}
+% \usepackage{xcolor}
+\usepackage[usenames,dvipsnames]{xcolor}
 \usepackage{enumitem}
 \usepackage{constants}
 \usepackage{mathtools}
@@ -23,7 +26,7 @@
     citecolor=blue,
     linkcolor=red,
     filecolor=magenta,      
-    urlcolor=purple
+    urlcolor=RoyalBlue
 }
 \usepackage{cleveref}
 \usepackage[toc,page]{appendix}
@@ -40,52 +43,127 @@ Email: tkoriyam@uchicago.edu.
 \end{center}
 \subsection*{Education}
 \begin{itemize}
-  \item 2024- PhD student in Econometrics and Statistics, University of Chicago Booth School of Business.\\
-  Advisor: Tengyuan Liang
-  \item 2022-2024 PhD student in Statistics, Rutgers University. \\
-  Advisors: Pierre C. Bellec and Qiyang Han.
-  \item 2018-2022 Bachelor's degree in Math \& CS, the University of Tokyo. \\
-  Advisors: Takeru Matsuda and Fumiyasu Komaki
+  \item 2024- PhD student in Econometrics and Statistics, the University of Chicago, Booth School of Business. Advisor: \href{https://tyliang.github.io}{Tengyuan Liang}. 
+  \item 2022-2024 PhD student in Statistics, Rutgers University. Advisor: \href{https://statweb.rutgers.edu/PCB71/}{Pierre C. Bellec}. 
+  \item 2018-2022 BE in Mathematical Engineering, the University of Tokyo. 
+  % Advisors: Takeru Matsuda and Fumiyasu Komaki
 \end{itemize}
 
-\subsection*{Research}
+\subsection*{Research Interests}
+\noindent
 % My research interests span probability, optimization, and statistics, with a focus on (1) statistical and computational learning theory for generative models, (2) high-dimensional statistics in the mean-field regime, (3) the interplay between high-dimensional probability and convex geometry.
+% I have broad interests in mathematical theory and algorithms. In recent years, my research has focused on:
+\begin{itemize}
+  \item Statistical and computational optimal transport. 
+  \item High dimensional statistics for over-parametrized model. 
+  \item Phase transition phenomena in high-dimensional probability.
+  \item Combinatorial stochastic processes and its application to network analysis. 
+\end{itemize}
 
+\subsection*{Preprint}
 \begin{enumerate}
-\item \href{https://arxiv.org/abs/2501.03163}{Phase transition for unregularized M-estimation in single index model} \\
-Pierre C. Bellec and \textbf{Takuya Koriyama} (alphabetical)\\
-\textit{arXiv:2501.03163, 2025}.
 \item \href{https://arxiv.org/abs/2411.01629}{Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity}\\
-Tengyuan Liang, Kulunu Dharmakeerthi, and \textbf{Takuya Koriyama} \\
-\textit{arXiv:2411.01629, 2024, under review at \textit{STOC2025}.}
+Tengyuan Liang, Kulunu Dharmakeerthi, and Takuya Koriyama \\
+\textit{arXiv:2411.01629, 2024, under review at Annals of Statistics.}
+
 \item \href{https://arxiv.org/abs/2409.15252}{Precise Asymptotics of Bagging Regularized M-estimators}\\
-\textbf{Takuya Koriyama}, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec (alphabetical) \\
+Takuya Koriyama, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
 \textit{arXiv:2409.15252, 2024, under review at Annals of Statistics.}
+
 \item \href{https://arxiv.org/abs/2404.02070}{Asymptotics of resampling without replacement in robust and logistic regression}\\
-Pierre C. Bellec and \textbf{Takuya Koriyama} (alphabetical)\\
+Pierre C. Bellec and Takuya Koriyama (alphabetical)\\
 \textit{arXiv:2404.02070, 2024, under review at Bernoulli.}
 
 \item \href{https://arxiv.org/abs/2312.13254}{Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators}\\
-Pierre C. Bellec and \textbf{Takuya Koriyama} (alphabetical)\\
+Pierre C. Bellec and Takuya Koriyama (alphabetical)\\
 \textit{arXiv:2312.13254, 2023, under review at Information and Inference: A Journal of the IMA.}
-\item \href{https://arxiv.org/abs/2312.13257}{Error estimation and adaptive tuning for unregularized robust M-estimator}\\
-Pierre C. Bellec and \textbf{Takuya Koriyama} (alphabetical)\\
-\textit{arXiv:2312.13257, 2023. Major revision at Journal of Machine Learning Research.} 
-\item \href{https://arxiv.org/abs/2310.01374}{Corrected generalized cross-validation for finite ensembles of penalized estimators}\\
-Pierre C. Bellec, Jin-Hong Du, \textbf{Takuya Koriyama}, Pratik Patil and Kai Tan (alphabetical)\\
-\textit{Journal of the Royal Statistical Society: Series B, 2024.} 
-
-\item  \href{https://arxiv.org/abs/2212.00984}{Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score}\\
-Shunsuke Imai, \textbf{Takuya Koriyama}, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
-\textit{Journal of Business \& Economic Statistics, 2024. }
-
-\item \href{https://arxiv.org/abs/2207.01949}
-{Asymptotic analysis of parameter estimation for the Ewens--Pitman partition}\\
-\textbf{Takuya Koriyama}, Takeru Matsuda and Fumiyasu Komaki\\
-\textit{arXiv:2207.01949, 2022. Minor revision at Journal of Applied Probability.}
 \end{enumerate}
 
-\subsection*{Talk}
+\subsection*{Publication}
+
+\begin{enumerate}
+  \item \href{https://arxiv.org/abs/2207.01949}
+  {Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition}\\
+  Takuya Koriyama, Takeru Matsuda and Fumiyasu Komaki\\
+  \textit{arXiv:2207.01949, 2022. To appear in \textbf{Advances in Applied Probability} 58.1, 2026.}
+
+  \item \href{https://arxiv.org/abs/2501.03163}{Phase transitions for the existence of unregularized M-estimators in single index models} \\
+  Pierre C. Bellec and Takuya Koriyama (alphabetical)\\
+  \textit{arXiv:2501.03163, 2025. To appear in \textbf{International Conference on Machine Learning}, 2025}.
+
+  \item \href{https://jmlr.org/papers/v26/24-0060.html}{Error estimation and adaptive tuning for unregularized robust M-estimator}\\
+  Pierre C. Bellec and Takuya Koriyama (alphabetical)\\
+  \textit{\textbf{Journal of Machine Learning Research}  26 (16), 1-40, 2025.} 
+
+  \item \href{https://doi.org/10.1093/jrsssb/qkae092}{Corrected generalized cross-validation for finite ensembles of penalized estimators}\\
+  Pierre C. Bellec, Jin-Hong Du, Takuya Koriyama, Pratik Patil and Kai Tan (alphabetical)\\
+  \textit{\textbf{Journal of the Royal Statistical Society: Series B}, 87(2), 289-318, 2025.} 
+
+  \item  \href{https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo}{Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score}\\
+  Shunsuke Imai, Takuya Koriyama, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
+  \textit{\textbf{Journal of Business \& Economic Statistics} 43 (1), 110-121, 2025.
+  }
+\end{enumerate}
+
+\subsection*{Working paper}
+
+\begin{itemize}
+  \item Parameter estimation of Gibbs-partitions with quasi-likelihood: stable martingale CLT and $\alpha$-diversity. 
+  Takuya Koriyama, in preparation. 
+  % \item Scale invariant robust regression: phase transition between LAD and Huber regression.
+\end{itemize}
+
+
+% \begin{enumerate}
+% % \item \href{https://arxiv.org/abs/2501.03163}{Phase transition for unregularized M-estimation in single index model} \\
+% % Pierre C. Bellec and Takuya Koriyama (alphabetical)\\
+% % \textit{arXiv:2501.03163, 2025}.
+
+% % \item \href{https://arxiv.org/abs/2411.01629}{Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity}\\
+% % Tengyuan Liang, Kulunu Dharmakeerthi, and Takuya Koriyama \\
+% % \textit{arXiv:2411.01629, 2024, under review at Annals of Statistics.}
+
+% % \item \href{https://arxiv.org/abs/2409.15252}{Precise Asymptotics of Bagging Regularized M-estimators}\\
+% % Takuya Koriyama, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec (alphabetical) \\
+% % \textit{arXiv:2409.15252, 2024, under review at Annals of Statistics.}
+
+% % \item \href{https://arxiv.org/abs/2404.02070}{Asymptotics of resampling without replacement in robust and logistic regression}\\
+% % Pierre C. Bellec and Takuya Koriyama (alphabetical)\\
+% % \textit{arXiv:2404.02070, 2024, under review at Bernoulli.}
+
+% % \item \href{https://arxiv.org/abs/2312.13254}{Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators}\\
+% % Pierre C. Bellec and Takuya Koriyama (alphabetical)\\
+% % \textit{arXiv:2312.13254, 2023, under review at Information and Inference: A Journal of the IMA.}
+
+% % \item \href{https://arxiv.org/abs/2312.13257}{Error estimation and adaptive tuning for unregularized robust M-estimator}\\
+% % Pierre C. Bellec and Takuya Koriyama (alphabetical)\\
+% % \textit{arXiv:2312.13257, 2023. Major revision at Journal of Machine Learning Research.} 
+
+% % \item \href{https://arxiv.org/abs/2310.01374}{Corrected generalized cross-validation for finite ensembles of penalized estimators}\\
+% % Pierre C. Bellec, Jin-Hong Du, Takuya Koriyama, Pratik Patil and Kai Tan (alphabetical)\\
+% % \textit{Journal of the Royal Statistical Society: Series B, 2024.} 
+
+% % \item  \href{https://arxiv.org/abs/2212.00984}{Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score}\\
+% % Shunsuke Imai, Takuya Koriyama, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
+% % \textit{Journal of Business \& Economic Statistics, 2024. }
+
+% % \item \href{https://arxiv.org/abs/2207.01949}
+% % {Asymptotic analysis of parameter estimation for the Ewens--Pitman partition}\\
+% % Takuya Koriyama, Takeru Matsuda and Fumiyasu Komaki\\
+% % \textit{arXiv:2207.01949, 2022. To appear in \textit{Advances in Applied Probability 58.1, 2026}.}
+% \end{enumerate}
+
+\subsection*{Award}
+\begin{itemize}
+  \item IMS Hannan Graduate Student Travel Award, 2025.
+  \item Travel award, Yale FDS workshop honoring Andrew Barron, 2024. 
+  \item Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
+  \item Student Travel Award, IMS International Conference on Statistics and Data Science, 2022.
+  \item Best Presentation Award, 16th Japan Statistical Society Spring Meeting, 2022. 
+  \item Japan Statistical Society Certificate Director's Award, 2022.
+\end{itemize}
+
+\subsection*{Past Talk}
 \begin{itemize}
   \item  IMS International Conference on Statistics and Data Science, Nice, December 2024. 
   \item  Workshop Honoring Andrew Barron: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning, Yale University, April 2024. 
@@ -95,20 +173,13 @@ Shunsuke Imai, \textbf{Takuya Koriyama}, Shouto Yonekura, Shonosuke Sugasawa and
   \item  Workshop on random partition of integers, the University of Tokyo, June 2022.
   \item Japan Statistical Society Meeting, Keio University, March 2022.
 \end{itemize}
-\subsection*{Teaching} (PhD level courses at Rutgers)
+\subsection*{Teaching} (PhD level courses)
 \begin{itemize}
 \item TA: Theory of Probability, fall 2023.
 \item TA: Stochastic process, spring 2024.
 \item Instructor: Probability and Stochastic Processes, summer 2024.
 \end{itemize}
-\subsection*{Award}
-\begin{itemize}
-  \item Travel award, Yale FDS workshop honoring Andrew Barron, 2024. 
-  \item Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
-  \item Student Travel Award, IMS International Conference on Statistics and Data Science, 2022.
-  \item Best Presentation Award, 16th Japan Statistical Society Spring Meeting, 2022. 
-  \item Japan Statistical Society Certificate Director's Award, 2022.
-\end{itemize}
+
 
 
 \end{document}
