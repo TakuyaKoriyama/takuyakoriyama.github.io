@@ -54,7 +54,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 Pierre C Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2501.03163*, 2025, accepted to __*ICML 2025*__. 
 
-* [Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition](https://arxiv.org/abs/2207.01949)\\
+* [Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition](https://arxiv.org/abs/2207.01949v4)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
 *arXiv:2207.01949*, 2022, to appear in __*Advances in Applied Probability 58.1 (March 2026)*__.  [[slide](../files/slide_ep.pdf)]. 
 
