@@ -78,6 +78,8 @@ __*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal
 * Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022.  
 
 ### Talk
+* Proceedings of the 42nd International Conference on Machine Learning (ICML), Vancouver, July 2025.
+* Workshop on Statistical Network Analysis and Beyond (SNAB), Tokyo, June 2025.
 * IMS International Conference on Statistics and Data Science, Nice, December 2024. 
 * Workshop Honoring Andrew Barron: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning, Yale University, April 2024. 
 * IMS Asia Pacific Rim Meeting, Melbourne, January 2024. 
