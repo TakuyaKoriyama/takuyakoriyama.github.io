@@ -19,8 +19,8 @@ I received my Bachelor’s degree in 2022 from [the University of Tokyo](https:/
 * 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business.
  Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
 * 2022-2024. PhD student in Statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
-* 2018-2022. BE in Mathematical Engineering (=Math & CS), The University of Tokyo. 
-* 2021-2022. Student researcher at RIKEN Center for Brain Science. 
+* 2018-2022. BE in Mathematical Engineering, The University of Tokyo, [MEIP](https://www.keisu.t.u-tokyo.ac.jp/en/). 
+* 2021-2022. Student researcher at [RIKEN CBS](https://cbs.riken.jp/en/about/)
 
 
 I have broad interests in mathematical theory and algorithms. In recent years, my research has focused on:
