@@ -51,7 +51,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 
 ### Publications
 * [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
-Pierre C Bellec and __Takuya Koriyama__ (alphabetical order)\\
+__Takuya Koriyama__ and Pierre C. Bellec \\
 *arXiv:2501.03163*, 2025, accepted to __*Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)*__. 
 
 * [Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition](https://arxiv.org/abs/2207.01949v4)\\
