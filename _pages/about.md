@@ -30,7 +30,7 @@ I have broad interests in mathematical theory and algorithms. In recent years, m
 More recently, I have been studying optimal transport and learning theory. 
 
 ### Preprints 
-* Parameter estimation of Gibbs-partitions with quasi-likelihood: stable martingale CLT and α-diversity\\
+* Asymptotic Inference for Predictive Estimation under Exchangeable Gibbs Partitions\\
 __Takuya Koriyama__, in preparation. 
 
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
