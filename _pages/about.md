@@ -30,8 +30,8 @@ I have broad interests in mathematical theory and algorithms. In recent years, m
 More recently, I have been studying optimal transport and learning theory. 
 
 ### Preprints 
-* Asymptotic Inference for Predictive Estimation under Exchangeable Gibbs Partitions\\
-__Takuya Koriyama__, in preparation. 
+* Asymptotic Inference for Exchangeable Gibbs Partitions\\
+__Takuya Koriyama__, arXiv preprint, 2025.
 
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
