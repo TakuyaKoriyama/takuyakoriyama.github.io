@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Takuya's Homepage"
+title: "Takuya's research website"
 author_profile: true
 redirect_from: 
   - /about/
