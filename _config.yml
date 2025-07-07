@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Takuya Koriyama (郡山拓也)"
-title_separator          : "-"
+# title_separator          : "-"
+title_separator          :
 name                     : &name "Takuya Koriyama"
 description              : &description "personal homepage"
 url                      : https://takuyakoriyama.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
