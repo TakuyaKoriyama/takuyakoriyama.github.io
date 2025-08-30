@@ -26,8 +26,9 @@ I received my Bachelor’s degree in 2022 from [the University of Tokyo](https:/
 I have broad interests in mathematical theory and algorithms. In recent years, my research has focused on:
 (1) Mean-field high dimensional statistics
 (2) High-dimensional probability, and 
-(3) Combinatorial stochastic processes.
-More recently, I have been studying optimal transport and learning theory. 
+(3) Combinatorial stochastic processes. 
+More recently, I have been studying training dynamics of modern machine learning models.
+
 
 ### Preprints 
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
