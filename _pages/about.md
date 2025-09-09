@@ -29,7 +29,6 @@ I have broad interests in mathematical theory and algorithms. In recent years, m
 (3) Combinatorial stochastic processes. 
 More recently, I have been studying training dynamics of modern machine learning models.
 
-
 ### Preprints 
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
 __Takuya Koriyama__\\
@@ -54,11 +53,11 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 ### Publications
 * [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
 __Takuya Koriyama__ and Pierre C. Bellec \\
-Accepted to __*Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)*__. 
+__*Proceedings of the 42nd International Conference on Machine Learning*__(ICML2025). 
 
-* [Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition](https://arxiv.org/abs/2207.01949v4)\\
+* [Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition](https://doi.org/10.1017/apr.2025.10020)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-*arXiv:2207.01949*, 2022, to appear in __*Advances in Applied Probability 58.1, 2026*__.  [[slide](../files/slide_ep.pdf)]. 
+__*Advances in Applied Probability*__, Published online 2025:1-21. [[slide](../files/slide_ep.pdf)]. 
 
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://jmlr.org/papers/v26/24-0060.html)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
