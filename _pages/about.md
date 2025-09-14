@@ -27,7 +27,7 @@ I have broad interests in mathematical theory and algorithms. In recent years, m
 (1) Mean-field high dimensional statistics
 (2) High-dimensional probability, and 
 (3) Combinatorial stochastic processes. 
-More recently, I have been studying training dynamics of modern machine learning models.
+More recently, I have been studying the approximate message passing algorithm (AMP) with its application to the training dynamics of modern machine learning models.
 
 ### Preprints 
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
