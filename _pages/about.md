@@ -8,26 +8,18 @@ redirect_from:
 ---
 
 <!-- ### About me
-I am a first-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business. I'm broadly interested in mathematical theory and algorithm for statistics and machine learning. -->
+I am a second-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business, advised by [Tengyuan Liang](https://tyliang.github.io/). I'm broadly interested in mathematical theory and algorithm for statistics and machine learning. My current research focuses on:
+* Mean-filed high-dimensional statistics
+* Optimal transport and its application to generative model
+* Training dynamics of modern machine learning models -->
 
-<!-- Before joining UChicago, I spent two years as a Ph.D. student in Statistics at Rutgers University, working with Professor [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
-
-I received my Bachelor’s degree in 2022 from [the University of Tokyo](https://www.keisu.t.u-tokyo.ac.jp/en/), majoring in Math & CS.  -->
-<!-- During my undergraduate studies, I also worked as a student researcher at [RIKEN Center for Brain Science](https://cbs.riken.jp/en/).   -->
-
-### Bio
-* 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business.
- Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
-* 2022-2024. PhD student in Statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
-* 2018-2022. BE in Mathematical Engineering, The University of Tokyo, [MEIP](https://www.keisu.t.u-tokyo.ac.jp/en/). 
-* 2021-2022. Student researcher at [RIKEN CBS](https://cbs.riken.jp/en/about/)
-
-
-I have broad interests in mathematical theory and algorithms. In recent years, my research has focused on:
-(1) Mean-field high dimensional statistics
-(2) High-dimensional probability, and 
-(3) Combinatorial stochastic processes. 
-More recently, I have been studying the approximate message passing algorithm (AMP) with its application to the training dynamics of modern machine learning models.
+### About me ([[CV](../out/cv.pdf)])
+I am a second-year Ph.D. student in Statistics at the University of Chicago Booth School of Business. 
+My research interests lie broadly in the mathematical theory and algorithms underlying statistics and machine learning. My current research focuses on:
+* Mean-filed high-dimensional statistics
+* Optimal transport and its application to generative model
+* Training dynamics of modern machine learning models 
+* Combinatorial stochastic processes
 
 ### Preprints 
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
@@ -71,14 +63,20 @@ __*Journal of the Royal Statistical Society Series B: Statistical Methodology*__
 Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
 __*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]
 
-### Award
+### Education
+* 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business.
+ Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
+* 2022-2024. PhD student in Statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
+* 2018-2022. BE in Mathematical Engineering, The University of Tokyo, [MEIP](https://www.keisu.t.u-tokyo.ac.jp/en/). 
+
+<!-- ### Award
 * IMS Hannan Graduate Student Travel Award, 2025.
 * Travel award at Yale FDS workshop, 2024. 
 * Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
 * Student Travel Award, IMS International Conference on Statistics and Data Science, 2022.
-* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022.  
+* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022.   -->
 
-### Talk
+<!-- ### Talk
 * Proceedings of the 42nd International Conference on Machine Learning (ICML), Vancouver, July 2025.
 * Workshop on Statistical Network Analysis and Beyond (SNAB), Tokyo, June 2025.
 * IMS International Conference on Statistics and Data Science, Nice, December 2024. 
@@ -87,18 +85,11 @@ __*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal
 * Seminar talk, Graduate school of Economics, the University of Tokyo, February 2023. 
 * IMS International Conference on Statistics and Data Science, Florence, December 2022.
 * Workshop on random partition of integers, the University of Tokyo, June 2022.
-* Japan Statistical Society Meeting, Keio University, March 2022.
+* Japan Statistical Society Meeting, Keio University, March 2022. -->
 
-### Teaching (PhD level)
+<!-- ### Teaching (PhD level)
 * TA: Theory of Probability, fall 2023. 
 * TA: Stochastic process, spring 2024.
-* Instructor: Probability and Stochastic Processes, summer 2024. 
+* Instructor: Probability and Stochastic Processes, summer 2024.  -->
 
-
-<!-- ### Education 
-* 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business. Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
-* 2022-2024. PhD student in Statistics at Rutgers University. 
-Advisors: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/) and [Qiyang Han](https://statweb.rutgers.edu/qh85/).
-* 2018-2022. Bachelor degree in Applied Mathematics, The University of Tokyo. 
-Advisors: [Takeru Matsuda](http://www.stat.t.u-tokyo.ac.jp/~t-matsuda/) and [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/~komaki/index-e.html).  -->
 
