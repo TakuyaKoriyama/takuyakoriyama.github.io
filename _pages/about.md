@@ -13,8 +13,8 @@ I am a second-year Ph.D. student in Statistics at The University of Chicago, Boo
 * Optimal transport and its application to generative model
 * Training dynamics of modern machine learning models -->
 
-### About me ([[CV](../out/cv.pdf)])
-I am a second-year Ph.D. student in Statistics at the University of Chicago Booth School of Business. 
+### About me (My CV is available [here](../out/cv.pdf))
+I am a second-year Ph.D. student at the University of Chicago. 
 My research interests lie broadly in the mathematical theory and algorithms underlying statistics and machine learning. My current research focuses on:
 * Mean-filed high-dimensional statistics
 * Optimal transport and its application to generative model
