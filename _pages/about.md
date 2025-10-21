@@ -32,7 +32,7 @@ Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
 
 * [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
 __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
-*arXiv:2409.15252*, 2024, major revision at *Annals of Statistics*. [[github](https://github.com/jaydu1/subagging-asymptotics)]
+*arXiv:2409.15252*, 2024, minor revision at *Annals of Statistics*. [[github](https://github.com/jaydu1/subagging-asymptotics)]
 
 * [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
