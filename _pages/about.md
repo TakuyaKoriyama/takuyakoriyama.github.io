@@ -30,10 +30,6 @@ __Takuya Koriyama__\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
 *arXiv:2411.01629*, 2024, submitted.
 
-* [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
-__Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
-*arXiv:2409.15252*, 2024, minor revision at *Annals of Statistics*. [[github](https://github.com/jaydu1/subagging-asymptotics)]
-
 * [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
 *arXiv:2404.02070*, 2024, major revision at *Bernoulli*.
@@ -43,9 +39,13 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2312.13254*, 2023, submitted. [[slide](../files/nonlinear_system_slide.pdf)]
 
 ### Publications
+* [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
+__Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
+Accepted to __*Annals of Statistics*__. [[github](https://github.com/jaydu1/subagging-asymptotics)]
+
 * [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
 __Takuya Koriyama__ and Pierre C. Bellec \\
-__*Proceedings of the 42nd International Conference on Machine Learning*__(ICML2025). 
+__*Proceedings of the 42nd International Conference on Machine Learning*__ (ICML2025). 
 
 * [Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition](https://doi.org/10.1017/apr.2025.10020)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
