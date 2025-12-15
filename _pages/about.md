@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ### About me
-I am a second-year Ph.D. student in Statistics at The University of Chicago, Booth School of Business, advised by [Tengyuan Liang](https://tyliang.github.io/). I'm broadly interested in mathematical theory and algorithm for statistics and machine learning. My current research focuses on:
-* Mean-filed high-dimensional statistics
-* Optimal transport and its application to generative model
-* Training dynamics of modern machine learning models -->
-
 ### About me (My CV is available [here](../out/cv.pdf))
 I am a second-year Ph.D. student in statistics at the University of Chicago, Booth School of Business. 
 My research interests lie broadly in the mathematical theory and algorithms underlying statistics and machine learning. My current research focuses on:
@@ -24,7 +18,7 @@ My research interests lie broadly in the mathematical theory and algorithms unde
 ### Preprints 
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
 __Takuya Koriyama__\\
-*arXiv:2506.21527*, 2025, submitted. 
+*arXiv:2506.21527*, 2025, major revision at *Stochastic processes and their Applications*
 
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
@@ -61,7 +55,12 @@ __*Journal of the Royal Statistical Society Series B: Statistical Methodology*__
 
 * [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://arxiv.org/abs/2212.00984)\\
 Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
-__*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]
+__*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]\
+
+<!-- ### Working papers
+* Precise trainig dynamics of multi-layer neural network with adaptive optimizer. 
+* Alignment flow. -->
+
 
 ### Education
 * 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business.
