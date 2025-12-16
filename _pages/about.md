@@ -18,7 +18,7 @@ My research interests lie broadly in the mathematical theory and algorithms unde
 ### Preprints 
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
 __Takuya Koriyama__\\
-*arXiv:2506.21527*, 2025, major revision at *Stochastic processes and their Applications*
+*arXiv:2506.21527*, 2025, submitted. 
 
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
