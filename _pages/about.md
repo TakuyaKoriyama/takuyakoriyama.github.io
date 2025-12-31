@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### Takuya Koriyama
-<!-- ### About me (My CV is available [here](../out/cv.pdf)) -->
+<!-- ### About me -->
 I am a second-year Ph.D. student in statistics at the University of Chicago, Booth School of Business. My CV is available [here](../out/cv.pdf). 
 My research interests lie broadly in the mathematical theory and algorithms underlying statistics and machine learning. My current research focuses on:
 * Mean-filed high-dimensional statistics
@@ -68,28 +67,5 @@ __*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal
  Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
 * 2022-2024. PhD student in Statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
 * 2018-2022. BE in Mathematical Engineering, The University of Tokyo, [MEIP](https://www.keisu.t.u-tokyo.ac.jp/en/). 
-
-<!-- ### Award
-* IMS Hannan Graduate Student Travel Award, 2025.
-* Travel award at Yale FDS workshop, 2024. 
-* Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2023.
-* Student Travel Award, IMS International Conference on Statistics and Data Science, 2022.
-* Best Presentation Award and Japan Statistical Society Certificate Director's Award, 16th Japan Statistical Society Spring Meeting, 2022.   -->
-
-<!-- ### Talk
-* Proceedings of the 42nd International Conference on Machine Learning (ICML), Vancouver, July 2025.
-* Workshop on Statistical Network Analysis and Beyond (SNAB), Tokyo, June 2025.
-* IMS International Conference on Statistics and Data Science, Nice, December 2024. 
-* Workshop Honoring Andrew Barron: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning, Yale University, April 2024. 
-* IMS Asia Pacific Rim Meeting, Melbourne, January 2024. 
-* Seminar talk, Graduate school of Economics, the University of Tokyo, February 2023. 
-* IMS International Conference on Statistics and Data Science, Florence, December 2022.
-* Workshop on random partition of integers, the University of Tokyo, June 2022.
-* Japan Statistical Society Meeting, Keio University, March 2022. -->
-
-<!-- ### Teaching (PhD level)
-* TA: Theory of Probability, fall 2023. 
-* TA: Stochastic process, spring 2024.
-* Instructor: Probability and Stochastic Processes, summer 2024.  -->
 
 
