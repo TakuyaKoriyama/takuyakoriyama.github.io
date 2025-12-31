@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ### About me -->
+### About me
 I am a second-year Ph.D. student in statistics at the University of Chicago, Booth School of Business. My CV is available [here](../out/cv.pdf). 
 My research interests lie broadly in the mathematical theory and algorithms underlying statistics and machine learning. My current research focuses on:
 * Mean-filed high-dimensional statistics
