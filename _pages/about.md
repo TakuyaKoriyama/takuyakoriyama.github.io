@@ -29,7 +29,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2312.13254*, 2023, submitted. [[slide](../files/nonlinear_system_slide.pdf)]
 
 ### Publications
-* [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
+* [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://openreview.net/pdf?id=sj1wU6gBXH)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
 Accepted to __*Transactions on Machine Learning Research*__. 
 
