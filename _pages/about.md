@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### About me
+<!-- ### About me -->
 I am a second-year Ph.D. student in statistics at the University of Chicago, Booth School of Business. My CV is available [here](../out/cv.pdf). 
 My research interests lie broadly in the mathematical theory and algorithms underlying statistics and machine learning. My current research focuses on:
 * Mean-filed high-dimensional statistics
@@ -20,10 +20,6 @@ My research interests lie broadly in the mathematical theory and algorithms unde
 __Takuya Koriyama__\\
 *arXiv:2506.21527*, 2025, submitted. 
 
-* [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
-Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
-*arXiv:2411.01629*, 2024, submitted.
-
 * [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
 *arXiv:2404.02070*, 2024, major revision at *Bernoulli*.
@@ -33,6 +29,10 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2312.13254*, 2023, submitted. [[slide](../files/nonlinear_system_slide.pdf)]
 
 ### Publications
+* [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://arxiv.org/abs/2411.01629)\\
+Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
+Accepted to __*Transactions on Machine Learning Research*__. 
+
 * [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
 __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
 Accepted to __*Annals of Statistics*__. [[github](https://github.com/jaydu1/subagging-asymptotics)]
