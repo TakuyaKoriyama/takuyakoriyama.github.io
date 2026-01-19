@@ -31,7 +31,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 ### Publications
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://openreview.net/pdf?id=sj1wU6gBXH)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
-Accepted to __*Transactions on Machine Learning Research*__. 
+__*Transactions on Machine Learning Research*__, 2835-8856, 2026.
 
 * [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
 __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
