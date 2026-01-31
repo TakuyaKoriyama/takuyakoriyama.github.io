@@ -20,15 +20,15 @@ My research interests lie broadly in the mathematical theory and algorithms unde
 __Takuya Koriyama__\\
 *arXiv:2506.21527*, 2025, submitted. 
 
-* [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)\\
-Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
-*arXiv:2404.02070*, 2024, major revision at *Bernoulli*.
-
 * [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2312.13254*, 2023, submitted. [[slide](../files/nonlinear_system_slide.pdf)]
 
 ### Publications
+* [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)\\
+Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
+Accepted to __*Bernoulli*__.
+
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://openreview.net/pdf?id=sj1wU6gBXH)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
 __*Transactions on Machine Learning Research*__, 2835-8856, 2026.
