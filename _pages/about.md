@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- ### About me -->
 I am a second-year Ph.D. student in statistics at the University of Chicago, Booth School of Business. My CV is available [here](../out/cv.pdf). 
-My research interests lie broadly in the mathematical theory and algorithms underlying statistics and machine learning. My current research focuses on:
+I'm broadly interested in the mathematical theory and algorithms underlying statistics and machine learning. My current research focuses on:
 * Mean-filed high-dimensional statistics
 * Optimal transport and its application to generative model
 * Training dynamics of modern machine learning models 
@@ -27,7 +27,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 ### Publications
 * [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
-Accepted to __*Bernoulli*__.
+Accepted to __*Bernoulli*__. 
 
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://openreview.net/pdf?id=sj1wU6gBXH)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
@@ -35,7 +35,7 @@ __*Transactions on Machine Learning Research*__, 2835-8856, 2026.
 
 * [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
 __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
-Accepted to __*Annals of Statistics*__. [[github](https://github.com/jaydu1/subagging-asymptotics)]
+__*Annals of Statistics*__, in press. [[github](https://github.com/jaydu1/subagging-asymptotics)]
 
 * [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
 __Takuya Koriyama__ and Pierre C. Bellec \\
@@ -56,10 +56,6 @@ __*Journal of the Royal Statistical Society Series B: Statistical Methodology*__
 * [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://arxiv.org/abs/2212.00984)\\
 Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
 __*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]\
-
-<!-- ### Working papers
-* Precise trainig dynamics of multi-layer neural network with adaptive optimizer. 
-* Alignment flow. -->
 
 
 ### Education
