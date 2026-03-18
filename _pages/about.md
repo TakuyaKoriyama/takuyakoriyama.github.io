@@ -55,7 +55,7 @@ __*Journal of the Royal Statistical Society Series B: Statistical Methodology*__
 
 * [Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score](https://arxiv.org/abs/2212.00984)\\
 Shunsuke Imai, __Takuya Koriyama__, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama\\
-__*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]\
+__*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149?casa_token=_YOXJFqGXa0AAAAA%3AZCueJ9QbEp0N1Yvh8Bm0ieEefDcQECfZyzYWfPd2KTI_yxy9l7rt0cja6c5I4cyVJuAT7q2sfTzo)]
 
 
 ### Education
