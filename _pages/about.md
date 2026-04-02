@@ -33,9 +33,9 @@ Accepted to __*Bernoulli*__.
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
 __*Transactions on Machine Learning Research*__, 2835-8856, 2026.
 
-* [Precise Asymptotics of Bagging Regularized M-estimators](https://arxiv.org/abs/2409.15252)\\
+* [Precise asymptotics of bagging regularized M-estimators](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-2/Precise-asymptotics-of-bagging-regularized-M-estimators/10.1214/25-AOS2590.short)\\
 __Takuya Koriyama__, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec \\
-__*Annals of Statistics*__, in press. [[github](https://github.com/jaydu1/subagging-asymptotics)]
+__*The Annals of Statistics*__, 54(2) 796-833, 2026. [[github](https://github.com/jaydu1/subagging-asymptotics)]
 
 * [Phase transitions for the existence of unregularized M-estimators in single index models](https://arxiv.org/abs/2501.03163)\\
 __Takuya Koriyama__ and Pierre C. Bellec \\
