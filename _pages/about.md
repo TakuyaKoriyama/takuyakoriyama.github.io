@@ -43,7 +43,7 @@ __*Proceedings of the 42nd International Conference on Machine Learning*__ (ICML
 
 * [Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition](https://doi.org/10.1017/apr.2025.10020)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-__*Advances in Applied Probability*__, Published online 2025:1-21. [[slide](../files/slide_ep.pdf)]. 
+__*Advances in Applied Probability*__, 58(1) 214-234, 2026 [[slide](../files/slide_ep.pdf)]. 
 
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://jmlr.org/papers/v26/24-0060.html)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
