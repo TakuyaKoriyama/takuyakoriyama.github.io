@@ -9,13 +9,20 @@ redirect_from:
 
 <!-- ### About me -->
 I am a second-year Ph.D. student in statistics at the University of Chicago, Booth School of Business. My CV is available [here](../out/cv.pdf). 
-I'm broadly interested in the mathematical theory and algorithms underlying statistics and machine learning. My current research focuses on:
-* Mean-filed high-dimensional statistics
+I'm broadly interested in the mathematical theory and algorithms underlying statistics and machine learning. 
+
+<!-- 
+My current research focuses on:
+* High-dimensional statistics and probability
 * Optimal transport and its application to generative model
 * Training dynamics of modern machine learning models 
-* Combinatorial stochastic processes
+* Combinatorial stochastic processes -->
+
 
 ### Preprints 
+* Alignment from pairwise preference: a Markov chain approach\\
+__Takuya Koriyama__ and Tengyuan Liang
+
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
 __Takuya Koriyama__\\
 *arXiv:2506.21527*, 2025, major revision at Stochastic Processes and their Applications. 
