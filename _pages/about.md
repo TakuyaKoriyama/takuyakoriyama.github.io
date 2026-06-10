@@ -25,7 +25,7 @@ __Takuya Koriyama__ and Tengyuan Liang
 
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
 __Takuya Koriyama__\\
-*arXiv:2506.21527*, 2025, major revision at Stochastic Processes and their Applications. 
+*arXiv:2506.21527*, 2025, minor revision at Stochastic Processes and their Applications. 
 
 * [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
