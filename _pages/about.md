@@ -68,7 +68,7 @@ __*Journal of Business & Economic Statistics*__ 43 (1), 110-121, 2025. [[journal
 ### Education
 * 2024-present. PhD student in Econometrics and Statistics at The University of Chicago, Booth School of Business.
  Advisor: [Tengyuan Liang](https://tyliang.github.io/). 
-* 2022-2024. PhD student in Statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://statweb.rutgers.edu/PCB71/). 
+* 2022-2024. PhD student in Statistics at Rutgers University. Advisor: [Pierre C. Bellec](https://bellecp.github.io). 
 * 2018-2022. BE in Mathematical Engineering, The University of Tokyo, [MEIP](https://www.keisu.t.u-tokyo.ac.jp/en/). 
 
 
