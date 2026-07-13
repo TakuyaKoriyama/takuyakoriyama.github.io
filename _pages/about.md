@@ -22,7 +22,7 @@ My current research focuses on:
 ### Preprints 
 * [A Markov Chain Approach to Preference Alignment](https://arxiv.org/abs/2606.22652)\\
 __Takuya Koriyama__ and Tengyuan Liang
-*arXiv:2606.22652*, 2026.
+*arXiv:2606.22652*, 2026. [[short slides](../files/mchf_slide.pdf)]
 
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
 __Takuya Koriyama__\\
