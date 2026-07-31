@@ -33,9 +33,9 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2312.13254*, 2023, submitted. [[slide](../files/nonlinear_system_slide.pdf)]
 
 ### Publications
-* [Asymptotics of resampling without replacement in robust and logistic regression](https://arxiv.org/abs/2404.02070)\\
+* [Asymptotics of resampling without replacement in robust and logistic regression](https://projecteuclid.org/journals/bernoulli/volume-32/issue-4/Asymptotics-of-resampling-without-replacement-in-robust-and-logistic-regression/10.3150/26-BEJ1979.short)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
-Accepted to __*Bernoulli*__. 
+__*Bernoulli*__,  32(4): 3063-3087, 2026
 
 * [Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity](https://openreview.net/pdf?id=sj1wU6gBXH)\\
 Tengyuan Liang, Kulunu Dharmakeerthi, and __Takuya Koriyama__\\
