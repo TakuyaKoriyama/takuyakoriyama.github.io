@@ -31,7 +31,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 ### Publications
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
 __Takuya Koriyama__\\
-Stochastic Processes and their Applications, in press, 2026
+Accepted to __*Stochastic Processes and their Applications*__, 2026. 
 
 * [Asymptotics of resampling without replacement in robust and logistic regression](https://projecteuclid.org/journals/bernoulli/volume-32/issue-4/Asymptotics-of-resampling-without-replacement-in-robust-and-logistic-regression/10.3150/26-BEJ1979.short)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
