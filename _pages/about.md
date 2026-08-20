@@ -24,15 +24,15 @@ My current research focuses on:
 __Takuya Koriyama__ and Tengyuan Liang
 *arXiv:2606.22652*, 2026. [[short slides](../files/mchf_slide.pdf)]
 
-* [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
-__Takuya Koriyama__\\
-*arXiv:2506.21527*, 2025, minor revision at Stochastic Processes and their Applications. 
-
 * [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 *arXiv:2312.13254*, 2023, submitted. [[slide](../files/nonlinear_system_slide.pdf)]
 
 ### Publications
+* [Asymptotic Inference for Exchangeable Gibbs Partitions](https://arxiv.org/abs/2506.21527)\\
+__Takuya Koriyama__\\
+Stochastic Processes and their Applications, in press, 2026
+
 * [Asymptotics of resampling without replacement in robust and logistic regression](https://projecteuclid.org/journals/bernoulli/volume-32/issue-4/Asymptotics-of-resampling-without-replacement-in-robust-and-logistic-regression/10.3150/26-BEJ1979.short)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
 __*Bernoulli*__,  32(4): 3063-3087, 2026
