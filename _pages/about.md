@@ -21,7 +21,7 @@ My current research includes
 ### Preprints 
 * [A Markov Chain Approach to Preference Alignment](https://arxiv.org/abs/2606.22652)\\
 __Takuya Koriyama__ and Tengyuan Liang
-*arXiv:2606.22652*, 2026. [[short slides](../files/mchf_slide.pdf)]
+*arXiv:2606.22652*, 2026. [[slides](../files/mchf_slide.pdf)]
 
 * [Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators](https://arxiv.org/abs/2312.13254)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
@@ -30,7 +30,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 ### Publications
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://www.sciencedirect.com/science/article/pii/S0304414926002061)\\
 __Takuya Koriyama__\\
-__*Stochastic Processes and their Applications*__, 202, 105074, 2026. [[slide]](../files/slide_random_partition.pdf)
+__*Stochastic Processes and their Applications*__, 202, 105074, 2026. [[short slide]](../files/slide_random_partition.pdf)
 
 * [Asymptotics of resampling without replacement in robust and logistic regression](https://projecteuclid.org/journals/bernoulli/volume-32/issue-4/Asymptotics-of-resampling-without-replacement-in-robust-and-logistic-regression/10.3150/26-BEJ1979.short)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
