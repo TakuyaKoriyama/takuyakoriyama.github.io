@@ -12,11 +12,10 @@ I am a second-year Ph.D. student in statistics at the University of Chicago, Boo
 I'm broadly interested in the mathematical theory and algorithms underlying statistics and machine learning. 
 
 <!-- 
-My current research focuses on:
-* High-dimensional statistics and probability
-* Optimal transport and its application to generative model
-* Training dynamics of modern machine learning models 
-* Combinatorial stochastic processes -->
+My current research includes
+* Theoretical foundations of modern machine learning model
+* Precise asymptotics of ensemble methods in high dimensions.  
+* Combinatorial stochastic processes [[slides]](../files/slide_random_partition.pdf) -->
 
 
 ### Preprints 
@@ -31,7 +30,7 @@ Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order)\\
 ### Publications
 * [Asymptotic Inference for Exchangeable Gibbs Partitions](https://www.sciencedirect.com/science/article/pii/S0304414926002061)\\
 __Takuya Koriyama__\\
-__*Stochastic Processes and their Applications*__, 202, 105074, 2026.
+__*Stochastic Processes and their Applications*__, 202, 105074, 2026. [[slide]](../files/slide_random_partition.pdf)
 
 * [Asymptotics of resampling without replacement in robust and logistic regression](https://projecteuclid.org/journals/bernoulli/volume-32/issue-4/Asymptotics-of-resampling-without-replacement-in-robust-and-logistic-regression/10.3150/26-BEJ1979.short)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\
@@ -51,7 +50,7 @@ __*Proceedings of the 42nd International Conference on Machine Learning*__ (ICML
 
 * [Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition](https://doi.org/10.1017/apr.2025.10020)\\
 __Takuya Koriyama__, Takeru Matsuda and Fumiyasu Komaki\\
-__*Advances in Applied Probability*__, 58(1) 214-234, 2026 [[slide](../files/slide_ep.pdf)]. 
+__*Advances in Applied Probability*__, 58(1) 214-234, 2026 
 
 * [Error estimation and adaptive tuning for unregularized robust M-estimator](https://jmlr.org/papers/v26/24-0060.html)\\
 Pierre C. Bellec and __Takuya Koriyama__ (alphabetical order) \\

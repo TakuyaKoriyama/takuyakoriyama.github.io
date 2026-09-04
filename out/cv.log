@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  1 SEP 2026 00:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 SEP 2026 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -718,13 +718,13 @@ Package caption Info: End \AtBeginDocument code.
 Here is how much of TeX's memory you used:
  27786 strings out of 473190
  511355 string characters out of 5715801
- 901397 words of memory out of 5000000
+ 901399 words of memory out of 5000000
  50422 multiletter control sequences out of 15000+600000
  570291 words of font info for 80 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 99i,6n,117p,468b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,6n,117p,468b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on out/cv.pdf (2 pages, 127279 bytes).
+Output written on out/cv.pdf (2 pages, 127340 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream
