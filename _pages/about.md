@@ -19,8 +19,7 @@ My current research includes
 
 
 ### Preprints 
-* [Power-law clustering with Gibbs partitions: universal estimation]()
-and predictive limits
+* [Power-law clustering with Gibbs partitions: universal estimation and predictive limits]()
 Takuya Koriyama, working paper. 
 
 * [A Markov Chain Approach to Preference Alignment](https://arxiv.org/abs/2606.22652)\\
