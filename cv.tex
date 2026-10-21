@@ -30,9 +30,11 @@
 \titleformat{\section}{\large\bfseries\color{accent}}{}{0pt}{}[\vspace{-3pt}\titlerule]
 \titlespacing*{\section}{0pt}{13pt}{7pt}
 % Paper: arXiv URL, title, authors, venue, publication URL, publication link label.
+% Leave the first argument empty for papers without an arXiv link.
 % Leave the last two arguments empty for preprints.
 \newcommand{\paper}[6]{{\normalsize\bfseries\color{accent}#2\par}
-  {\small #3\par#4\enspace\href{#1}{[arXiv]}%
+  {\small #3\par#4%
+  \if\relax\detokenize{#1}\relax\else\enspace\href{#1}{[arXiv]}\fi%
   \if\relax\detokenize{#5}\relax\else\enspace\href{#5}{[#6]}\fi\par}\vspace{4pt}}
 \newcommand{\entrygap}{\par\vspace{11pt}}
 \newcommand{\recognition}[1]{{\small #1\par}\vspace{3pt}}
@@ -40,14 +42,14 @@
 
 {\LARGE\bfseries Takuya Koriyama}\par
 \vspace{4pt}
-\href{mailto:tkoriyam@uchicago.edu}{tkoriyam@uchicago.edu}
+\href{mailto:tkoriyam@chicagobooth.edu}{tkoriyam@chicagobooth.edu}
 \enspace |\enspace \href{https://takuyakoriyama.github.io/}{takuyakoriyama.github.io}
 \enspace |\enspace \href{https://scholar.google.com/citations?user=JOqLea0AAAAJ\&hl=en}{Google Scholar}
 \enspace |\enspace \href{https://www.linkedin.com/in/takuya-koriyama-a4ab052a1/?isSelfProfile=true}{LinkedIn}
 
 \section*{Research Interests}
 % Mathematical foundations and algorithms for AI, especially AI alignment. My previous research includes high-dimensional statistics, high-dimensional probability and geometry, and combinatorial stochastic processes. 
-I’m broadly interested in statistics, ML, probability theory, as well as applied research in modern AI. My previous research has focused on high-dimensional statistics, high-dimensional probability/geometry, and combinatorial stochastic processes.
+I’m broadly interested in statistics, ML, and probability theory. My previous research has focused on high-dimensional statistics, high-dimensional probability/geometry, and combinatorial stochastic processes. More recently, I'm working on applied AI research, including AI alignment and model evaluation. 
 
 \section*{Education}
 \textbf{University of Chicago, Booth School of Business}\hfill 2024--present\par
@@ -58,12 +60,6 @@ PhD student, Statistics. Advisor: Pierre C. Bellec
 \vspace{3pt}\par
 \textbf{University of Tokyo}\hfill 2018--2022\par
 BE, Mathematical Engineering
-
-\section*{Experience}
-\textbf{Student Researcher, RIKEN Center for Brain Science} \hfill 2021--2022\par
-Theory of combinatorial stochastic processes and its application to network data analysis
-% \section*{Technical Skills}
-% Python: NumPy, PyTorch, pandas.
 
 \section*{Selected Publications}
 \begin{minipage}{\linewidth}
@@ -191,7 +187,6 @@ Develops corrected generalized cross-validation for estimating prediction error 
 {\textbf{Journal of Business \& Economic Statistics}, 43(1), 110--121, 2025}
 {https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149}
 {Journal}
-
 \end{minipage}
 \entrygap
 
@@ -204,7 +199,24 @@ Develops corrected generalized cross-validation for estimating prediction error 
 {}
 {}
 \end{minipage}
-\entrygap
+
+% \section{Working papers}
+% \begin{minipage}{\linewidth}
+% \raggedright\small
+% \paper{}
+% {Power-law clustering with Gibbs partitions: universal estimation and predictive limits}
+% {\textbf{Takuya Koriyama}}
+% {Working paper, 2026}
+% {}
+% {}
+% \end{minipage}
+% % \entrygap
+
+\section*{Experience}
+\textbf{Student Researcher, RIKEN Center for Brain Science} \hfill 2021--2022\par
+Theory of combinatorial stochastic processes and its application to network data analysis
+
+
 
 % \newpage
 \section*{Awards and Honors}

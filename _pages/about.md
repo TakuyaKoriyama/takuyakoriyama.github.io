@@ -10,7 +10,10 @@ redirect_from:
 <!-- ### About me -->
 I am a third-year Ph.D. student in statistics at the University of Chicago, Booth School of Business. My CV is available [here](../out/cv.pdf). 
 
-I’m broadly interested in the mathematical theory and algorithms underlying statistics and machine learning, as well as applied research in modern AI. My previous research has focused on high-dimensional statistics, high-dimensional probability and geometry, and combinatorial stochastic processes.
+I’m broadly interested in the mathematical theory and algorithms underlying statistics and machine learning, as well as applied research in modern AI. 
+My previous research has focused on high-dimensional statistics, high-dimensional probability and geometry, and combinatorial stochastic processes. 
+
+Recently I'm working on research on LLMs, including AI alginment, routings, and model-evaluation. 
 
 
 ### Preprints 
