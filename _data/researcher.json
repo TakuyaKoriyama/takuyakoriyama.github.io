@@ -1,0 +1,163 @@
+{
+  "papers": [
+    {
+      "title": "Power-law clustering with Gibbs partitions: universal estimation and predictive limits",
+      "url": "",
+      "authors": "Takuya Koriyama",
+      "venue": "Working paper",
+      "year": "",
+      "category": "Preprint",
+      "links": []
+    },
+    {
+      "title": "A Markov Chain Approach to Preference Alignment",
+      "url": "https://arxiv.org/abs/2606.22652",
+      "authors": "Takuya Koriyama and Tengyuan Liang",
+      "venue": "arXiv:2606.22652, 2026",
+      "year": "2026",
+      "category": "Preprint",
+      "links": [
+        {
+          "label": "Slides",
+          "url": "/files/mchf_slide.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Existence of solutions to the nonlinear equations characterizing the precise error of M-estimators",
+      "url": "https://arxiv.org/abs/2312.13254",
+      "authors": "Pierre C. Bellec and Takuya Koriyama (alphabetical order)",
+      "venue": "arXiv:2312.13254, 2023, submitted",
+      "year": "2023",
+      "category": "Preprint",
+      "links": [
+        {
+          "label": "Slides",
+          "url": "/files/nonlinear_system_slide.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Asymptotic Inference for Exchangeable Gibbs Partitions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304414926002061",
+      "authors": "Takuya Koriyama",
+      "venue": "Stochastic Processes and their Applications, 202, 105074, 2026",
+      "year": "2026",
+      "category": "Publication",
+      "links": [
+        {
+          "label": "Slides",
+          "url": "/files/slide_random_partition.pdf"
+        }
+      ],
+      "journal": "Stochastic Processes and their Applications"
+    },
+    {
+      "title": "Asymptotics of resampling without replacement in robust and logistic regression",
+      "url": "https://projecteuclid.org/journals/bernoulli/volume-32/issue-4/Asymptotics-of-resampling-without-replacement-in-robust-and-logistic-regression/10.3150/26-BEJ1979.short",
+      "authors": "Pierre C. Bellec and Takuya Koriyama (alphabetical order)",
+      "venue": "Bernoulli,  32(4) 3063-3087, 2026",
+      "year": "2026",
+      "category": "Publication",
+      "links": [],
+      "journal": "Bernoulli"
+    },
+    {
+      "title": "Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity",
+      "url": "https://openreview.net/pdf?id=sj1wU6gBXH",
+      "authors": "Tengyuan Liang, Kulunu Dharmakeerthi, and Takuya Koriyama",
+      "venue": "Transactions on Machine Learning Research, 2835-8856, 2026",
+      "year": "2026",
+      "category": "Publication",
+      "links": [],
+      "journal": "Transactions on Machine Learning Research"
+    },
+    {
+      "title": "Precise asymptotics of bagging regularized M-estimators",
+      "url": "https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-2/Precise-asymptotics-of-bagging-regularized-M-estimators/10.1214/25-AOS2590.short",
+      "authors": "Takuya Koriyama, Pratik Patil, Jin-Hong Du, Kai Tan, and Pierre C. Bellec",
+      "venue": "The Annals of Statistics, 54(2) 796-833, 2026",
+      "year": "2026",
+      "category": "Publication",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/jaydu1/subagging-asymptotics"
+        }
+      ],
+      "journal": "The Annals of Statistics"
+    },
+    {
+      "title": "Phase transitions for the existence of unregularized M-estimators in single index models",
+      "url": "https://arxiv.org/abs/2501.03163",
+      "authors": "Takuya Koriyama and Pierre C. Bellec",
+      "venue": "Proceedings of the 42nd International Conference on Machine Learning (ICML2025)",
+      "year": "2025",
+      "category": "Publication",
+      "links": []
+    },
+    {
+      "title": "Asymptotic mixed normality of maximum likelihood estimator for Ewens--Pitman partition",
+      "url": "https://doi.org/10.1017/apr.2025.10020",
+      "authors": "Takuya Koriyama, Takeru Matsuda and Fumiyasu Komaki",
+      "venue": "Advances in Applied Probability, 58(1) 214-234, 2026",
+      "year": "2026",
+      "category": "Publication",
+      "links": [
+        {
+          "label": "Slides",
+          "url": "/files/slide_ep.pdf"
+        }
+      ],
+      "journal": "Advances in Applied Probability"
+    },
+    {
+      "title": "Error estimation and adaptive tuning for unregularized robust M-estimator",
+      "url": "https://jmlr.org/papers/v26/24-0060.html",
+      "authors": "Pierre C. Bellec and Takuya Koriyama (alphabetical order)",
+      "venue": "Journal of Machine Learning Research 26 (16), 1-40, 2025",
+      "year": "2025",
+      "category": "Publication",
+      "links": [],
+      "journal": "Journal of Machine Learning Research"
+    },
+    {
+      "title": "Corrected generalized cross-validation for finite ensembles of penalized estimators",
+      "url": "https://arxiv.org/abs/2310.01374",
+      "authors": "Pierre C. Bellec, Jin-Hong Du, Takuya Koriyama, Pratik Patil and Kai Tan (alphabetical order)",
+      "venue": "Journal of the Royal Statistical Society Series B: Statistical Methodology, 87(2), 289-318, 2025",
+      "year": "2025",
+      "category": "Publication",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://doi.org/10.1093/jrsssb/qkae092"
+        },
+        {
+          "label": "Slides",
+          "url": "/files/slide_cgcv.pdf"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/kaitan365/CorrectedGCV"
+        }
+      ],
+      "journal": "Journal of the Royal Statistical Society Series B: Statistical Methodology"
+    },
+    {
+      "title": "Fully Data-driven Normalized and Exponentiated Kernel Density Estimator with Hyvärinen Score",
+      "url": "https://arxiv.org/abs/2212.00984",
+      "authors": "Shunsuke Imai, Takuya Koriyama, Shouto Yonekura, Shonosuke Sugasawa and Yoshihiko Nishiyama",
+      "venue": "Journal of Business & Economic Statistics 43 (1), 110-121, 2025",
+      "year": "2025",
+      "category": "Publication",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2326149"
+        }
+      ],
+      "journal": "Journal of Business & Economic Statistics"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<li class="paper">
+  <article>
+    <h4>{% if paper.url != '' %}<a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</h4>
+    <p class="paper-authors">{{ paper.authors | escape | replace: 'Takuya Koriyama', '<strong>Takuya Koriyama</strong>' }}</p>
+    <p class="paper-venue">{% if paper.journal %}<strong>{{ paper.journal | escape }}</strong>{{ paper.venue | remove_first: paper.journal | escape }}{% else %}{{ paper.venue | escape }}{% endif %}</p>
+    {% if paper.links.size > 0 %}<div class="paper-links">{% for link in paper.links %}{% assign first_char = link.url | slice: 0 %}{% if first_char == '/' %}{% assign link_url = link.url | relative_url %}{% else %}{% assign link_url = link.url %}{% endif %}<a href="{{ link_url | escape }}" aria-label="{{ link.label | escape }} for {{ paper.title | escape }}">{{ link.label | escape }}</a>{% endfor %}</div>{% endif %}
+  </article>
+</li>

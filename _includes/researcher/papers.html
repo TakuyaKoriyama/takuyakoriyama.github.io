@@ -1,0 +1,21 @@
+<section id="papers" class="section papers" aria-labelledby="papers-title">
+  <div class="section-heading-row">
+    {% if page.section == 'home' %}<h2 id="papers-title">Papers</h2>{% else %}<h1 id="papers-title">Papers</h1>{% endif %}
+    <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
+  </div>
+  <div class="paper-group">
+    {% assign preprints = site.data.researcher.papers | where: 'category', 'Preprint' %}
+    <h3 class="group-title">Preprints &amp; working papers <span>{{ preprints.size }}</span></h3>
+    <ol class="paper-list">
+      {% for paper in site.data.researcher.papers %}{% if paper.category == 'Preprint' %}{% include researcher/paper.html %}{% endif %}{% endfor %}
+    </ol>
+  </div>
+  <div class="paper-group">
+    {% assign publications = site.data.researcher.papers | where: 'category', 'Publication' %}
+    <h3 class="group-title">Publications <span>{{ publications.size }}</span></h3>
+    <ol class="paper-list">
+      {% assign publication_years = publications | map: 'year' | uniq | sort | reverse %}
+      {% for year in publication_years %}{% for paper in publications %}{% if paper.year == year %}{% include researcher/paper.html %}{% endif %}{% endfor %}{% endfor %}
+    </ol>
+  </div>
+</section>

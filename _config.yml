@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "takuya-koriyama-a4ab052a1"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -199,6 +199,9 @@ kramdown:
 
 # Collections
 collections:
+  research_blog:
+    output: true
+    permalink: /blog/:name/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -215,6 +218,14 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+      type: research_blog
+    values:
+      layout: research-note
+      section: note
+      published: false
+      math: false
   # _posts
   - scope:
       path: ""
@@ -292,6 +303,7 @@ plugins:
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
