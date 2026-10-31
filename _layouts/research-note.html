@@ -1,0 +1,13 @@
+---
+layout: researcher
+---
+<article class="research-note">
+  <header class="note-header">
+    <p class="back-to-blog"><a href="{{ '/blog/' | relative_url }}">← Research blog</a></p>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="note-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time>{% if page.updated %} · Updated <time datetime="{{ page.updated | date_to_xmlschema }}">{{ page.updated | date: '%B %-d, %Y' }}</time>{% endif %}</p>
+    {% if page.description %}<p class="note-description">{{ page.description | escape }}</p>{% endif %}
+  </header>
+  <div class="note-content">{{ content }}</div>
+  <footer class="note-footer"><a href="{{ '/blog/' | relative_url }}">← All posts</a></footer>
+</article>

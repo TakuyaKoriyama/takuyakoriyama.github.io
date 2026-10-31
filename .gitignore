@@ -5,3 +5,12 @@ _site/
 Gemfile.lock
 
 # out
+
+# Local metadata and LaTeX intermediates (published CV PDF stays tracked)
+.DS_Store
+out/*.aux
+out/*.fdb_latexmk
+out/*.fls
+out/*.log
+out/*.out
+out/*.synctex.gz

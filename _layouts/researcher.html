@@ -1,0 +1,71 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' | escape }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% capture display_title %}{% unless page.section == 'home' %}{{ page.title }} · {% endunless %}{{ site.author.name }}{% endcapture %}
+  {% assign description = page.description | default: page.excerpt | default: 'Takuya Koriyama, PhD student in Econometrics and Statistics at the University of Chicago Booth School of Business. Research, papers, and notes.' %}
+  <title>{{ display_title | strip | escape }}</title>
+  <meta name="description" content="{{ description | strip_html | strip_newlines | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="{% if page.section == 'note' %}article{% else %}website{% endif %}">
+  <meta property="og:title" content="{{ display_title | strip | escape }}">
+  <meta property="og:description" content="{{ description | strip_html | strip_newlines | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/images/profile_new.jpg' | absolute_url }}">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/researcher-mark.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/researcher.css' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="Takuya Koriyama — Research blog" href="{{ '/blog/feed.xml' | relative_url }}">
+  {% if page.math %}
+  <script>window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']]}};</script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  {% endif %}
+  {% if jekyll.environment == 'production' %}{% include analytics.html %}{% endif %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Takuya Koriyama home">Takuya Koriyama</a>
+      <nav aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}#papers"{% if page.section == 'papers' %} aria-current="page"{% endif %}>Papers</a>
+        <a href="{{ '/blog/' | relative_url }}"{% if page.section == 'blog' %} aria-current="page"{% endif %}>Blog</a>
+        <a href="{{ '/' | relative_url }}#cv"{% if page.section == 'cv' %} aria-current="page"{% endif %}>CV</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="site-main" tabindex="-1">
+    {% if page.section == 'home' %}
+    <section class="intro" aria-labelledby="intro-title">
+      <div class="intro-copy">
+        <h1 id="intro-title">Takuya Koriyama <span class="name-ja" lang="ja">郡山拓也</span></h1>
+        <p>I am a third-year Ph.D. student in statistics at the University of Chicago, Booth School of Business.</p>
+        <p>I’m broadly interested in the mathematical theory and algorithms underlying statistics and machine learning, as well as applied research in modern AI.</p>
+        <div class="intro-links">
+          <a href="mailto:{{ site.author.email | escape }}">Email</a>
+          <a href="{{ '/out/cv.pdf' | relative_url }}">CV (PDF)</a>
+          <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
+          <a href="https://github.com/{{ site.author.github | escape }}">GitHub</a>
+          {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin | escape }}/">LinkedIn</a>{% endif %}
+        </div>
+      </div>
+      <img class="portrait" src="{{ '/images/profile_new.jpg' | relative_url }}" alt="Takuya Koriyama" width="170" height="200" fetchpriority="high">
+    </section>
+    <section id="research" class="section research" aria-labelledby="research-title">
+      <h2 id="research-title">Research interests</h2>
+      <p>My previous research has focused on high-dimensional statistics, high-dimensional probability and geometry, and combinatorial stochastic processes. Recently I’ve been working on large language models, with a focus on alignment, routing, and model evaluation.</p>
+    </section>
+    {% endif %}
+    {% if page.section == 'home' or page.section == 'papers' %}{% include researcher/papers.html %}{% endif %}
+    {% if page.section == 'home' %}{% include researcher/blog.html recent=true %}{% endif %}
+    {% if page.section == 'home' or page.section == 'cv' %}{% include researcher/cv.html %}{% endif %}
+    {% if page.section == 'blog' %}{% include researcher/blog.html %}{% endif %}
+    {% if page.section == 'note' %}{{ content }}{% endif %}
+  </main>
+  <footer class="site-footer"><span>© {{ site.time | date: '%Y' }} Takuya Koriyama</span><a href="#main">Back to top</a></footer>
+</body>
+</html>
