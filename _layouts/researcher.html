@@ -64,7 +64,7 @@ layout: null
     {% if page.section == 'home' %}{% include researcher/blog.html recent=true %}{% endif %}
     {% if page.section == 'home' or page.section == 'cv' %}{% include researcher/cv.html %}{% endif %}
     {% if page.section == 'blog' %}{% include researcher/blog.html %}{% endif %}
-    {% if page.section == 'note' %}{{ content }}{% endif %}
+    {% if page.section == 'note' or page.section == 'page' %}{{ content }}{% endif %}
   </main>
   <footer class="site-footer"><span>© {{ site.time | date: '%Y' }} Takuya Koriyama</span><a href="#main">Back to top</a></footer>
 </body>

@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /feed.xml
+sitemap: false
+---
+{% include researcher/feed.xml %}
