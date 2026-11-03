@@ -16,9 +16,23 @@ Content
 - CV PDF: edit cv.tex and regenerate out/cv.pdf. The web CV is separate.
 - Slides: files/*.pdf. Keep existing URLs stable.
 
-Local preview
+Local setup (once, using the existing Conda installation)
+  conda create -n website-preview --override-channels -c conda-forge ruby=3.3 c-compiler cxx-compiler
+  conda activate website-preview
   bundle install
-  bundle exec jekyll serve --config _config.yml,_config.dev.yml
+
+Local preview (each session)
+  conda activate website-preview
+  bundle exec jekyll serve --config _config.yml,_config.dev.yml --livereload
+
+Open http://localhost:4000/. Stop with Control+C. Restart the server after
+changing _config.yml or _config.dev.yml. The website-preview environment keeps
+Ruby and its build tools separate from macOS Ruby and other Conda environments.
+
+This Mac also has a zz_website_preview_path.sh Conda activation helper, which
+puts the environment's bin directory before macOS commands and clears the
+command cache. Reactivate the environment to apply it to an existing terminal.
+Use command -v ruby bundle to verify that both resolve inside website-preview.
 
 Production validation
   JEKYLL_ENV=production bundle exec jekyll build --safe

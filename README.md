@@ -21,10 +21,39 @@ See `_docs/MAINTENANCE.txt` and `_docs/BLOGGING.txt` for details.
 
 ## Preview
 
+This Mac uses a dedicated Conda environment with Ruby 3.3. For a fresh setup
+(with Conda already installed), run once:
+
 ```sh
+conda create -n website-preview --override-channels -c conda-forge ruby=3.3 c-compiler cxx-compiler
+conda activate website-preview
 bundle install
-bundle exec jekyll serve --config _config.yml,_config.dev.yml
 ```
+
+For each preview session:
+
+```sh
+conda activate website-preview
+bundle exec jekyll serve --config _config.yml,_config.dev.yml --livereload
+```
+
+Open http://localhost:4000/. Stop the server with Control+C. Restart it after
+changing a configuration file. Local previews do not send Google Analytics.
+Run `bundle install` again after changing the Gemfile.
+
+This Mac has an environment activation helper that prioritizes the environment's
+Ruby and Bundler. To diagnose a command lookup issue, run `command -v ruby bundle`;
+both paths should start with the active environment directory. If Bundler resolves
+to `/usr/bin/bundle`, correct the current session with:
+
+```sh
+export PATH="$CONDA_PREFIX/bin:$CONDA_PREFIX/share/rubygems/bin:$PATH"
+rehash
+```
+
+See the
+[Jekyll macOS guide](https://jekyllrb.com/docs/installation/macos/) for alternative
+Ruby setup options.
 
 Validate the production build with:
 
