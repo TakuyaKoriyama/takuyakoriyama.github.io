@@ -6,7 +6,7 @@ description: "Research in statistics, machine learning, and probability."
 url: "https://takuyakoriyama.github.io"
 baseurl: ""
 repository: "TakuyaKoriyama/takuyakoriyama.github.io"
-timezone: America/Los_Angeles
+timezone: America/Chicago
 
 # Profile links used by the current layout.
 author:
